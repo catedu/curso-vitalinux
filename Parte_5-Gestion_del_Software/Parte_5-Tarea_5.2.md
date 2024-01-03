@@ -15,7 +15,7 @@ En concreto, mediante la realización de la siguiente tarea se pretende comprend
 </li>
     <ol type="A">
     <li>
-    Cuando se ejecuta a través de <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> la falla <b>CONF-SET-STATUS-ACTIVE</b> en cargada de comprobar si el equipo esta funcionando dentro de un centro educativo adherido al programa de software libre Vitalinux.
+    Cuando se ejecuta a través de <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> la falla <b>CONF-SOFT-LIBREOFFICE</b> encargada de configurar aspectos de personalización de Libreoffice.
     </li>
     <li>
     Cuando <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> da la orden de actualizar el software del sistema</b>.
