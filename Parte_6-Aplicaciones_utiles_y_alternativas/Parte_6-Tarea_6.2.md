@@ -102,6 +102,7 @@ Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el result
 
 <br><div class="container">
 <img class="coolimage" src="../img/vitalinux-libreoffice-extension-multiformatsave-mod.png" alt="Imagen no Localizada">
+<img class="coolimage" src="../img/parte6/gifs/libreoffice-multiformatsave.gif" alt="Imagen no Localizada">
 <div class="imagetext_type2"><i>Img:</i> <tt>Tras instalar la <b>Extensión MultiFormatSave</b> aparecerá una nueva opción en el menú <b>Archivo</b> permitiéndonos guardar un archivo en varios formatos simultáneamente</tt></div>
 </div><br>
 
