@@ -110,6 +110,28 @@ Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el result
 Puedes ver una la lista de <b>Extensiones</b> disponibles para LibreOffice y comprobar si hay alguna que te puede resultar interesante.  En caso afirmativo instálala y comprueba su cometido.  Por ejemplo, si haces uso de ecuaciones matemáticas en tus clases la extensión de Libreoffice <b>"TexMaths"</b> es bestial, ya que te permite generar ecuaciones en formato Latex insuperables (<i>¡¡Ojo!! para usar TexMaths necesitarás instalar el programa texlive-latex-base, p.e. a través de synaptic</i>)
 </li>
 </ol>
+
+<br>
+A continuación aprenderemos una nueva herramienta para hacer capturas de pantalla, <b>flameshot</b>, más potente y versátil que la habitual. Para ello comenzaremos instalando <b>flameshot</b> desde <b>Vitalinux Play</b> o vía <synaptic>, la que prefieras, tal como aprendimos en el capítulo 5.  El proceso de captura se muestra visualmente en el siguiente GIF animado.
+
+<ol>
+<li>
+Una vez instalado <b>flameshot</b> teclea <b>control+espacio</b> y escribe <b>flameshot</b>. Al lanzarlo te aparecerá un nuevo indicador en el panel del Escritorio (<i>una llama</i>) de tal forma que al pinchar sobre él se iniciará el proceso de captura de pantalla.
+</li>
+<li>
+Pincha sobre el indicador de <b>flameshot</b>. Te mostrará un mensaje con atajos de teclado para diferentes opciones. Entre ellas destacar <b>la barra espaciadora</b>, que al pulsar sobre ella, nos mostrará o ocultará un panel lateral con opciones de edición. Otros atajos interesantes son el <b>Control+C</b> que copia la captura en el portapapeles para poder pegarla posteriormente en un documento ofimático, o el <b>Control+S</b> que nos permitirá guardar la captura en un archivo.
+</li>
+<li>
+Haciendo uso del ratón, pincha con el botón izquierdo en la esquina superior izquierda del área de pantalla que quieres capturar, y mantenlo pulsado hasta haber abarcado el área completa a capturar.  Una vez seleccionada el área a capturar haz uso de las opciones de edición tal como se muestra en el siguiente GIF animado. Guarda la captura y adjúntala en la tarea a entregar.
+</li>
+
+<br><div class="container">
+<img class="coolimage" src="../img/parte6/gifs/vx-flameshot.gif" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Cómo hacer capturas de pantalla mediante flameshot</tt></div>
+</div><br>
+
+</ol>
+
 <br>
 Por último, se pretende mostrar una herramienta ofimática que puede resultar de utilidad: <b>"un Editor PDF"</b>.  Para ello sigue los siguientes pasos:
 

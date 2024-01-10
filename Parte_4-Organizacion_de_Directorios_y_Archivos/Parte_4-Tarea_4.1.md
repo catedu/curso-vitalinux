@@ -9,7 +9,7 @@ Con la finalidad de familiarizarnos con la <b>Organización del Sistema de Archi
 <br><br>
 <ol>
 <li>
-Comenzaremos aprendiendo a hacer capturas de pantalla y acceder al directorio donde se almacenan escribiendo la ruta <b>a mano</b> (<i>así nos familiarizaremos con su sintaxis</i>).  Para ello:
+Comenzaremos repasando cómo hacer capturas de pantalla y acceder al directorio donde se almacenan escribiendo la ruta <b>a mano</b> (<i>así nos familiarizaremos con su sintaxis</i>).  Para ello:
 </li>
 <ol type="A">
 <li>
