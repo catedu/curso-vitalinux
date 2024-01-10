@@ -63,8 +63,18 @@ Mediante la siguiente tarea nos familiarizaremos con una de las características
 
 </ul>
 
-<li><i>Opcional (Vitalinux 2):</i>Aunque no es una <b>acción programada del Explorador de Archivos</b>, pero relacionado con lo anterior, lanza la aplicación <b>SIR</b> (<i>Simple Image Resizer</i>), tecleando <b>CONTROL+ESPACIO</b> y escribiendo <b>SIR</b>, y prueba a realizar alguna operación masiva sobre imágenes: generar imagenes miniatura, cambiar formato, cambiar tamaño, etc.
+<li>
+<b>Cifrar ficheros</b>. Comprueba que si pinchas con el botón derecho del ratón sobre un archivo mostrado por el <b>Explorador de Archivos</b> se te ofrecerá la posibilidad de <b>"Cifrar Archivo"</b>. Este cifrado generará un nuevo archivo cifrado (<i>*.aes</i>) a partir del original basado en un clave que se te solicitará (<i>deberás introducir la clave dos veces como confirmación</i>). Esa misma clave será la que tendrá que introducir el usuario destinatario para poderlo descifrar.  Para comprobar su funcionamiento, escoge un archivo PDF, imagen o documento ofímatico que tengas a mano y cífralo introduciendola la clave que tu desees. Después cópialo a otro directorio diferente y comprueba que al pinchar con el botón derecho del ratón sobre el archivo cifrado (<i>*.aes</i>) el <b>Explorador de Archivos</b> te ofrecerá la opción de <b>"Descifrar Fichero"</b>.
 </li>
+
+<li>
+<b>Descargar vídeos de youtube</b>. Para la siguiente utilidad será necesario instalar el programa <b>4k Video Downloader</b> haciendo uso de <b>Vitalinux Play</b> o <b>synaptic</b>.  Una vez instalado, lanza el programa tecleando <b>control+espacio</b> y escribiendo <b>4k Video Downloader</b> (<i>Si el programa te indica que debes descargar una actualización no lo hagas, de ello nos encargamos los técnicos de Vitalinux a través de Migasfree). A continuación buscaremos un video en youtube a descargar, para lo cual haremos uso de la potencia de Albert. Teclea <b>control+espacio</b> y escribe la palabra <yt> seguido del patrón de busqueda que quieres hacer en youtube. Por ejemplo, si queremos buscar un vídeo en youtube de como usar el programa <b>openshot</i> en Vitalinux escribiremos en el Albert <b>yt vitalinux openshot</b>, lo cual abrirá tu navegador web favorito con la búsqueda indicada en youtube. Selecciona el vídeo en concreto que quieres descargar y copia la URL del navegador. Después copia esta en <b>4k Video Downloader</b> y verás que podrás descargar el vídeo o su audio en diferentes calidades.
+</li>
+
+<br><div class="container">
+<img class="coolimage" src="../img/parte6/gifs/vx-4kvideodownloader.gif" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Cómo descargar vídeos de youtube con 4k Video Downloader</tt></div>
+</div><br>
 
 <li>
 En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
