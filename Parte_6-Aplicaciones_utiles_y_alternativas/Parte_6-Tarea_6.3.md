@@ -1,6 +1,3 @@
-### PLANTEARSE SI ES NECESARIO ETIQUETAR LA CONGELACIÓN...
-SI A USAR LAS ACCIONES, pero SOLO INDICAR QUE SI SE QUIERE QUE SE HAGA EN CADA REINICIO SE PUEDE ETIQUETAR DE ESA FORMA, PERO NO HACE FALTA ENTREGRAR NADA!
-
 {% notificacion_task title='Servicios de Congelación y Navegación en Modo Incógnito',
 numexer='6.3',
 req='Es necesario haber leído todo lo referente a <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md">Recursos para Centros Educativos</a>',
@@ -12,7 +9,7 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
 <br><br>
 
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">
-¡ATENCIÓN! Como resultado de la congelación, se borrarrán documentos y directorios que no estén definidos en un <b>patrón de congelación, que en nuestro caso es VACÍO</b> del Escritorio o del HOME del usuario (<i>según hagamos congelación de escritorio o congelación total</i>). NO hay que pensar que si tengo el sistema con unos directorios/archivos y procedo a congelar, se va a congelar con ésos directorios. Por tanto, <b>antes de proceder a la congelación asegurate de guardar la información personal que tengas en el equipo Vitalinux en una memoria USB o similar</b>.
+¡ATENCIÓN! La congelación no es una congelación al estilo Windows. No se congelan los programas, sólo se congelan los datos, las configuraciones o personalizaciones. La congelación no esta pensada para mantener una configuración creada por un usuario, sino al revés, esta pensada pare revertir configuraciones hechas previamente por el usuario (<i>las configuraciones y personalizaciones se deciden a nivel de centro educativo</i>).  Por ello, como consecuencia de la congelación se eliminarán las personalizaciones del entorno de Escritorio que haya hecho el usuario, además de los archivos y directorios que se hayan guardado en el Escritorio y otros directorios del perfil del usuario, que no hayan sido definidos previamente en los patrones de congelación. Por todo lo anterior, <b>antes de proceder a la congelación asegurate de guardar la información y archivos personales que tengas en el equipo Vitalinux, guardándolos en una memoria USB o similar</b>.
 </pre></center>
 
 <ul>
@@ -25,13 +22,13 @@ En la presente tarea se van a mostrar algunos de los servicios que pueden config
 Para entender el funcionamiento de la congelación del Escritorio es fundamental comprender las diferencias entre <b>reiniciar, resetear y regenerar el Entorno de Escritorio</b>.
 <ol type="A">
 <li>
-<b>Reiniciar Entorno de Escritorio</b>.  Utilidad que permite reiniciar y actualizar el Entorno de Escritorio.  Puede resultar útil cuando queremos actualizarlo ante algún cambio de configuración, o cuando el Entorno de Escritorio o Explorador de Archivos se quedan colgados.  Esta acción reinicia todos los elementos que componen el Entorno de Escritorio y cierra el Explorador de Archivos en el caso de que esté iniciado.  Teclea <b>CONTROL + ESPACIO</b>, escribe <b>Reiniciar Entorno de Escritorio</b> y comprueba el efecto indicado.
+<b>Reiniciar Entorno de Escritorio</b>.  Utilidad que permite reiniciar y actualizar el Entorno de Escritorio.  Puede resultar útil cuando queremos actualizarlo ante algún cambio de configuración, o cuando el Entorno de Escritorio o Explorador de Archivos se quedan colgados.  Esta acción reinicia todos los elementos que componen el Entorno de Escritorio y cierra el Explorador de Archivos en el caso de que esté iniciado.  Teclea <b>CONTROL+ESPACIO</b>, escribe <b>Reiniciar Entorno de Escritorio</b> y comprueba el efecto indicado.
 </li>
 <li>
-<b>Resetear Entorno de Escritorio</b>.  Utilidad que permite reiniciar y eliminar cualquier configuración adicional que se haya realizado al Entorno de Escritorio.  Es decir, es similar a la acción anterior de reiniciar a la cual se le suma la purga de cualquier configuración personal que se haya hecho (por ejemplo añadir un panel, cambiar el tema de iconos...).  Puede resultar útil cuando queremos regresear al Entorno de Escritorio que viene de serie tras probar a modificar su aspecto o apariencia.  Es importnate señalar que esta utilidad no elimina ficheros o directorios creados por el usuario dentro del Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio y posteriormente teclea <b>CONTROL + ESPACIO</b>, escribe <b>Resetear Entorno de Escritorio</b>.
+<b>Resetear Entorno de Escritorio</b>.  Utilidad que permite reiniciar y eliminar cualquier configuración adicional que se haya realizado al Entorno de Escritorio.  Es decir, es similar a la acción anterior de reiniciar a la cual se le suma la purga de cualquier configuración personal que se haya hecho (por ejemplo añadir un panel, cambiar el tema de iconos...).  Puede resultar útil cuando queremos regresear al Entorno de Escritorio que viene de serie tras probar a modificar su aspecto o apariencia.  Es importnate señalar que esta utilidad no elimina ficheros o directorios creados por el usuario dentro del Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio y posteriormente teclea <b>CONTROL+ESPACIO</b>, escribe <b>Resetear Entorno de Escritorio</b>.
 </li>
 <li>
-<b>Regenerar Entorno de Escritorio</b>.  Utilidad que permite resetear el Entorno de Escritorio y además eliminar cualquier tipo de archivo o directorio que el usuario haya almacenado en el Escritorio.  De esta forma, esta utilidad devuelve el Entorno de Escritorio al estado inicial tras la instalación de Vitalinux.  Esta es la acción que se desencadena en los equipos Vitalinux al apagarse cuando un centro o un usuario decide congelar el Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio, crea algún archivo/directorio en el Escritorio y posteriormente teclea <b>CONTROL + ESPACIO</b>, escribe <b>Regenerar Entorno de Escritorio</b>.
+<b>Regenerar Entorno de Escritorio</b>.  Utilidad que permite resetear el Entorno de Escritorio y además eliminar cualquier tipo de archivo o directorio que el usuario haya almacenado en el Escritorio.  De esta forma, esta utilidad devuelve el Entorno de Escritorio al estado inicial tras la instalación de Vitalinux.  Esta es la acción que se desencadena en los equipos Vitalinux al apagarse cuando un centro o un usuario decide congelar el Escritorio.  Para comprobar su efecto, modifica la apariencia del Entorno de Escritorio, crea algún archivo/directorio en el Escritorio y posteriormente teclea <b>CONTROL+ESPACIO</b>, escribe <b>Regenerar Entorno de Escritorio</b>.
 </li>
 </ol>
 </li>
@@ -49,7 +46,7 @@ La regeneración del escritorio se basa en la comparación con un directorio pat
 </li>
 <ol>
 <li>
-La congelación total se puede probar de forma muy sencilla. Pero antes de hacerlo, recuerda que como no hay patrón definido, se borrará todo lo que haya en Documentos, Descargas, Imágenes, Vídeos...(los directorios principales) y el Escritorio. Así pues, haz una copia! Despues, teclea <b>CONTROL + ESPACIO</b> y escribe <b>Regenerar Perfil del Usuario</b>. Detectarás que se borrado lo que hubiera en dichos directorios principales (si no había nada, crea algún documento o carpeta y vuelve a ejecturarlo)
+La congelación total se puede probar de forma muy sencilla. Pero antes de hacerlo, recuerda que como no hay patrón definido, se borrará todo lo que haya en Documentos, Descargas, Imágenes, Vídeos...(los directorios principales) y el Escritorio. Así pues, haz una copia! Despues, teclea <b>CONTROL+ESPACIO</b> y escribe <b>Regenerar Perfil del Usuario</b>. Detectarás que se borrado lo que hubiera en dichos directorios principales (si no había nada, crea algún documento o carpeta y vuelve a ejecturarlo)
 </li>
 <li>
 Comprueba que la congelación sólo actúa en los principales directorios del usuario: <b>Escritorio, Descargas, Documentos, Imágenes, Música, Plantillas, Público y Vídeos</b>.  Es decir, crea un directorio dentro de la raíz de tu perfil llamado <b>Curso</b> (<i>p.e. /home/docenmte/Curso, /home/estudiante/Curso, /home/aularagon/Curso, /home/administrador/Curso, etc.</i>).  Copia dentro de ese directorio algún archivo (<i>imágenes, documentos ofimáticos, etc.</i>) y comprueba que ese directorio y su contenido prevalece ante la congelación.
@@ -79,6 +76,21 @@ La congelación se basa en la comparación con un directorio patrón, de tal for
     </li>
     <li>
     Por último, comprueba que si <b>desmarcas</b> la etiqueta <b>"SRV-NAVEGADORINCOGNITO"</b> volverás al modo de funcionamiento anterior.
+    </li>
+    </ol>
+
+<li>    
+<b>Resetear los Navegadores Web</b>: Firefox, Chromium o Google Chrome
+</li>
+    <ol>
+    <li>
+    En ocasiones nos puede interesar limpiar por completo los navegadores Web regresando al estado en que se encontraban tras su instalación. Esto eliminirá por completo todas las configuraciones realizadas por el usuario a lo largo de su uso: cookies, contraseñas, personalizaciones, publicidad, historial, favoritos, etc. A continuación veremos lo sencillo que es hacerlo.
+    </li>
+    <li>
+    Con la finalidad de comprender las acciones que desencadenan el resetear los navegadores Web, abre el explorador de archivos, sitúate en el <b>HOME</b> o carpeta personal del usuario, y teclea el atajo <b>CONTROL+H</b> para ver los ficheros y direcorios ocultos (<i>su nombre comienza por un punto, "."</i>). Posteriormente lanza los navegadores Web firefox, chromium, ... que tengas instalados en tu equipo Vitalinux, y comprueba en el explorador de archivos que se habrán creado dentro del <b>HOME</b> los subdirectorios <b>.mozilla</b> (<i>para Firefox</i>), <b>.config/chromium</b> (<i>para Chromium</i>) o <b>.config/google-chrome</b> (<i>para Google Chrome</i>). Estos directorios se encargan de almacenar todas las personalizaciones y configuraciones de los navegadores Web. Si se eliminan estos directorios directorios se limpian por completo los navegadores web correspondientes.
+    </li>
+    <li>
+    Teclea <b>CONTROL+ESPACIO</b> y escribe <b>Resetear navegadores Web</b>. Comprueba que esto elimina los directorios anteriores, y que al arrancar los navegadores estos lo hacen como si no lo hubieran hecho nunca.
     </li>
     </ol>
 </ul>
