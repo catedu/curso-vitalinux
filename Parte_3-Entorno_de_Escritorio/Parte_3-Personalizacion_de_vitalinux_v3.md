@@ -29,11 +29,11 @@ Configuración de la apariencia en Vitalinux 3
 El gestor de ventanas, el programa que "pinta" los bordes de las ventanas abiertas y que incluye por ejemplo el título de las ventanas los botones o el comportamiento, se debe configuran a parte ya que no dependen del escritorio. Para que quede lo más estético, deberás seleccionar un tema acorde con el tema que has usado para la apariencia (suelen tener un nombre común), pero para gustos los colores. Para configurar ésto deberemos teclear <b>CONTROL+ESPACIO</b> y escribir <b>ventanas</b> (*Gestor de ventanaso*).
 
 {% coolimages_type2 url_image='../img/parte3/vx-3.2-gestor_ventanas.png' %}
-Apariencia en Vitalinux 3
+Gestor de ventanas en Vitalinux 3
 {% endcoolimages_type2 %}
 
 {% coolimages_type2 url_image='../img/parte3/vx-3.2-gestor_ventanas.gif' %}
-Configuración de la apariencia en Vitalinux 3
+Configuración de la gestión de ventanas en Vitalinux 3
 {% endcoolimages_type2 %}
 
 ## Personalización del Escritorio Vitalinux 3.x {#PersonalizacionEscritorioVitalinux}
