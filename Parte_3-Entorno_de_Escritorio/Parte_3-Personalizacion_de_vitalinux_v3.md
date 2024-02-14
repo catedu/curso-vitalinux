@@ -14,13 +14,25 @@ Antes de empezar a personalizar tu Vitalinux 3 debes tener en cuenta que ciertas
 
 ## Apariencia de Vitalinux 3.x {#PersonalizarApariencia}
 
-Un aspecto que nos puede interesar a la hora de personalizar nuestro Entorno en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es la <b>Apariencia y Comportamiento de las Ventanas</b>.  En concreto, podemos personalizar el <b>tema de la apariencia</b> de las ventanas, sus <b>bordes</b> o el <b>tema de iconos</b>. Para configurar todo lo anterior deberemos teclear <b>CONTROL+ESPACIO</b> y escribir <b>apariencia</b> (*personalice la apariencia del escritorio*).
+Un aspecto que nos puede interesar a la hora de personalizar nuestro Entorno en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es la <b>Apariencia y Comportamiento de las Ventanas</b>.  En concreto, podemos personalizar el <b>tema de la apariencia</b> de las ventanas o el <b>tema de iconos</b>. Para configurar todo lo anterior deberemos teclear <b>CONTROL+ESPACIO</b> y escribir <b>apariencia</b> (*personalice la apariencia del escritorio*).
 
 {% coolimages_type2 url_image='../img/parte3/vx-3.2-apariencia.png' %}
 Apariencia en Vitalinux 3
 {% endcoolimages_type2 %}
 
 {% coolimages_type2 url_image='../img/parte3/vx-3.2-apariencia.gif' %}
+Configuración de la apariencia en Vitalinux 3
+{% endcoolimages_type2 %}
+
+### Gestor de Ventanas {#PersonalizarApariencia}
+
+El gestor de ventanas, el programa que "pinta" los bordes de las ventanas abiertas y que incluye por ejemplo el título de las ventanas los botones o el comportamiento, se debe configuran a parte ya que no dependen del escritorio. Para que quede lo más estético, deberás seleccionar un tema acorde con el tema que has usado para la apariencia (suelen tener un nombre común), pero para gustos los colores. Para configurar ésto deberemos teclear <b>CONTROL+ESPACIO</b> y escribir <b>ventanas</b> (*Gestor de ventanaso*).
+
+{% coolimages_type2 url_image='../img/parte3/vx-3.2-gestor_ventanas.png' %}
+Apariencia en Vitalinux 3
+{% endcoolimages_type2 %}
+
+{% coolimages_type2 url_image='../img/parte3/vx-3.2-gestor_ventanas.gif' %}
 Configuración de la apariencia en Vitalinux 3
 {% endcoolimages_type2 %}
 
