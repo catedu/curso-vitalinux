@@ -18,12 +18,11 @@ El ejemplo más conocido es **Microsoft Windows**, el cual se caracteriza por ha
 
 Desde un punto de vista informático, haciendo un poco de abstracción, cada una de las letras anteriores hace referencia a una organización en forma de **árbol invertido de archivos y directorios**, donde **la raíz del árbol sería la letra asignada a la unidad de almacenamiento**, cada uno de **los directorios y subdirectorios que hubiera se corresponderían con las diferentes ramas de ese árbol**, y cada uno de **los archivos que hubiera dentro de cada uno de esos directorios serían las hojas de cada una de esas ramas**.
 
-
-Por todo lo anterior, se dice que en Windows existen tantos árboles de directorios y archivos como unidades de almacenaminento (letras) haya.  Linux difiere drásticamente en este sentido y **hace uso de un único árbol invertido de directorios y archivos** de donde van colgando nuevas ramas y hojas a medida que el sistema de archivos crece: **porque se crean nuevos directorios y archivos**, **porque se ha conectado un nuevo dispositivo de almacenamiento externo de tipo USB**, **porque se ha configurado una unidad de almacenamiento en red**, etc.
-
 {% coolimages_type2 url_image="../img/Sistema-archivos-arbol-directorios-windows.jpg" %}
 Organización den forma de Árbol invertido de Windows
 {% endcoolimages_type2 %}
+
+Por todo lo anterior, se dice que en Windows existen tantos árboles de directorios y archivos como unidades de almacenaminento (letras) haya.  Linux difiere drásticamente en este sentido y **hace uso de un único árbol invertido de directorios y archivos** de donde van colgando nuevas ramas y hojas a medida que el sistema de archivos crece: **porque se crean nuevos directorios y archivos**, **porque se ha conectado un nuevo dispositivo de almacenamiento externo de tipo USB**, **porque se ha configurado una unidad de almacenamiento en red**, etc.
 
 Por tanto, la clave para comprender y entender como Vitalinux organiza los directorios y archivos es reconocer donde esta la raíz del árbol y como se distribuyen sus ramas.
 
@@ -47,9 +46,9 @@ Además de lo anterior, cada sistema operativo se caracteriza por organizar los 
 
 ## Sintaxis de las Rutas de Archivos {#SintaxisdelasRutasdeArchivos}
 
-Todo directorio y archivo en Vitalinux tiene una ruta identificativa.  Esta pueda consultarse a medida que navegamos por el sistema de archivos de Vitalinux mediante su **Explorador de Archivos**.  Tal como se muestra en la siguiente figura, si abrimos el **Explorador de Archivos** (*Tecla Windows + E*) podremos observar en la barra de direcciones la **ruta absoluta** de donde nos encontramos dentro del **árbol de directorios y archivos de Vitalinux**.
+Todo directorio y archivo en Vitalinux tiene una ruta identificativa.  Esta pueda consultarse a medida que navegamos por el sistema de archivos de Vitalinux mediante su **Explorador de Archivos**.  Tal como se muestra en la siguiente figura, si abrimos el **Explorador de Archivos** (*Tecla Windows + E*) podremos observar en la barra de direcciones la **ruta absoluta** de donde nos encontramos dentro del **árbol de directorios y archivos de Vitalinux**. Para cambiar del modo de vista de "botón" a la ruta en texto debemos pulsar **CONTROL + L**.
 
-{% coolimages_type2 url_image="../img/Sistema-archivos-rutas.png" %}
+{% coolimages_type2 url_image="../img/parte4/barra_ruta_absoluta.gif" %}
 El Explorador de Archivos nos indica en todo momento donde nos encontramos dentro del árbol de directorios y archivos
 {% endcoolimages_type2 %}
 
@@ -62,7 +61,7 @@ A continuación se va a explicar someramente algunos de los directorios que cuel
 
 | Directorio | Función |
 | :---: | :--- |
-| **/home** | Directorio por defecto donde se almacenan los perfiles de los usuarios. Cuando se crea un nuevo usuario en el sistema se le asigna un directorio HOME, **/home/&lt;nombre-usuario&gt;**, sobre el cual tiene todos los permisos de lectura y escritura.  Se denomina **perfil de usuario** a todo el conjunto de carpetas y ficheros que pertenecen a un usuario.  En concreto, de cada directorio asociado a un usuario (*por ejemplo, **/home/profesor***) contendrá un conjunto de subdirectorios pensados para que cada usuario organice sus datos: **Escritorio, Documentos, Imágenes, Música, Vídeos, etc.** |
+| **/home** | Directorio por defecto donde se almacenan los perfiles de los usuarios. Cuando se crea un nuevo usuario en el sistema se le asigna un directorio HOME, **/home/&lt;nombre-usuario&gt;**, sobre el cual tiene todos los permisos de lectura y escritura.  Se denomina **perfil de usuario** a todo el conjunto de carpetas y ficheros que pertenecen a un usuario.  En concreto, de cada directorio asociado a un usuario (*por ejemplo, **/home/docente***) contendrá un conjunto de subdirectorios pensados para que cada usuario organice sus datos: **Escritorio, Documentos, Imágenes, Música, Vídeos, etc.** |
 | **/media** | Directorio que contiene los directorios o puntos de montaje de los dispositivos de almacenamiento externos que se conectan al sistema |
 | **/bin /sbin /usr/bin /usr/sbin** | Directorios que contienen los ejecutables del sistema |
 

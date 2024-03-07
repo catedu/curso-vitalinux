@@ -21,10 +21,6 @@ Con la finalidad de familiarizarnos con las características y funcionalidades d
 <li>
 Pincha una memoria USB y comprueba que se crean el <b>acceso directo en el Escritorio</b> y el <b>marcador en el Explorador de Archivos</b>
 </li>
-<br><div class="container">
-<img class="coolimage" src="../img/Pcmanfm-desmontar-usb.png" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Desmontaje de la memoria externa USB</tt></div>
-</div><br>
 <li>
 Abre la unidad de almacenamiento y guarda alguna captura de pantalla
 </li>
@@ -32,14 +28,17 @@ Abre la unidad de almacenamiento y guarda alguna captura de pantalla
 Abre una nueva pestaña en el <b>explorador de archivos</b> (<i>CONTROL+T</i>) y escribe </b>a mano</b> en la barra de direcciones del <i>Explorador de Archivos</i>, mediante <b>CONTROL+L</b>, </b>/media</b>.  Comprueba que dentro de </b>/media</b> existe un subdirectorio con el mismo nombre que el usuario que ha iniciado sesión (<i>el usuario con el que se ha iniciado sesión aparece en el <b>Widget</b> del Escritorio</i>).  Por ejemplo, si el usuario que ha iniciado sesión es <b>profesor1</b>, aparecerá un directorio llamado </b>/media/profesor1</b>, y que a su vez dentro de ese directorio existe otro con el nombre de la etiqueta de la memoria USB (<i>p.e. si la memoria se llama <b>MULTISYSTEM</b>: </b>/media/profesor1/MULTISYSTEM</b></i>)
 </li>
 <li>
-Desmonta de manera segura la unidad de almacenamiento.  Recuerda que para ello dispones de dos posibles opciones desde el explorador de archivos:
+Desmonta de manera segura la unidad de almacenamiento.  Recuerda que para ello dispones de varias opciones:
 </li>
 <ul>
 <li>
 Pulsar sobre el Icono de "<b>Eject</b>" asociado al dispositivo de almacenamiento externo que se muestra en "<b>Lugares</b>" del Explorador de Archivos de Vitalinux
 </li>
 <li>
-Pinchar con el botón derecho del ratón sobre el acceso directo anterior elegir la opción "<b>Expulsar medio extraíbe</b>". ¿Qué significa la opción Desmontar? Recuerda que lo vimos antes en Dispositivos de almacenamiento: Desmontar permite no dejar accesible el pen desde el equipo, pero lo podríamos reconectar volviendo a clickar sobre el icono. Si expulsamos y queremos tener accesible el pen más tarde, deberemos sacarlo físicamente y volver a insertarlo.
+Pinchar con el botón derecho del ratón sobre el acceso directo y elegir la opción "<b>Expulsar</b>".
+</li>
+<li>
+Usar la aplicación disponible en el área de notificaciones en la barra de tareas para todos los dipositivos de almacenamiento.
 </li>
 </ul>
 

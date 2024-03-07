@@ -59,7 +59,7 @@ Con la finalidad de <b>comprender el uso de permisos</b> en <span style='color: 
 <li>Pincha con el botón derecho del ratón sobre la <b>carpeta2</b> y en <b>Propiedades/permisos</b> restringe los permisos para que solamente haya acceso a el propietario y grupo de propietarios.</li>
 
 <br><div class="container">
-<img class="coolimage" src="../img/Sistema-archivos-restringir-permisos.png" alt="Imagen no Localizada">
+<img class="coolimage" src="../img/parte4/vx-permisos_directorio.png" alt="Imagen no Localizada">
 <div class="imagetext_type2"><i>Img:</i> <tt>Desde Propiedades/permisos podemos gestionar los permisos sobre archivos y directorios</tt></div>
 </div><br>
 
