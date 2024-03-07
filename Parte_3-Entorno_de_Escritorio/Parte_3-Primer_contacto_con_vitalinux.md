@@ -7,7 +7,7 @@ En el caso de que hayas optado por usar un equipo que ya tiene instalado <span s
 Para volver a la post-instalación <i>teclea CONTROL+ESPACIO y escribe <b>volver a la  post-instalación</b></i>, siendo necesario después reiniciar el equipo (<i>teclea CONTROL+ESPACIO y escribe <b>reiniciar equipo</b></i>).
 
 <br><div class="container">
-<img class="coolimage" src="../img/parte3/vx-volver-postinstalacion-credenciales_profesor_dga.png" alt="Imagen no Localizada">
+<img class="coolimage" src="../img/parte3/vx-volver-postinstalacion-credenciales_docente_dga.png" alt="Imagen no Localizada">
 <div class="imagetext_type2"><i>Img:</i> <tt>Se requieren usuario y contraseña de un usuario administrador para volver a la post-instalación</tt></div>
 </div><br>
 
@@ -16,9 +16,9 @@ Podrás comprobar que para <b>volver a la post-instalación</b> será necesario 
 <ul>
 <li><b>dga</b>: cuenta de usuario administrador.  Su contraseña por defecto es <b>careidga</b>.
 </li>
-<li><b>profesor/docente</b>: cuenta de usuario administrador.  Su contraseña por defecto es <b>careidga</b>.
+<li><b>docente/docente</b>: cuenta de usuario administrador.  Su contraseña por defecto es <b>careidga</b>.
 </li>
-<li><b>alumno/estudiante</b>: cuenta de usuario limitada.  Su contraseña por defecto es <b>alumno/estudiante</b>.
+<li><b>estudiante/estudiante</b>: cuenta de usuario limitada.  Su contraseña por defecto es <b>estudiante/estudiante</b>.
 </li>
 </ul>
 <br><b>¡Adelante! ¡Muchos Ánimos!</b>

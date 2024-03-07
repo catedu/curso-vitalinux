@@ -64,7 +64,7 @@ Esta tarea trata de mostrar dos alternativas a los clásicos programas usados en
     Vuelve a guardar el proyecto y expórtalo a formato Web (Youtube HD)
     </li>
     <li>
-    Por último, sube el vídeo a Youtube para que pueda visualizarse de manera pública. En caso de que no dispongas de una cuenta de Youtube o no quieras hacer uso de la tuya personal, autentícate como usuario "alumnoiestm" con password "alumno1234"
+    Por último, sube el vídeo a Youtube para que pueda visualizarse de manera pública. En caso de que no dispongas de una cuenta de Youtube o no quieras hacer uso de la tuya personal, autentícate como usuario "estudianteiestm" con password "estudiante1234"
     </li>
     </ol>
 </ul>

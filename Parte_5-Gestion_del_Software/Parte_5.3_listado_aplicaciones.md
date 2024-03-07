@@ -133,7 +133,7 @@ Los libros digitales suelen llevar licencias más cerradas de uso, pero desde Vi
 
 Mediante **Vitalinux Play** que verás en los siguientes apartados puedes ver y seleccionar aplicaciones demandadas en los centro educativos de Aragón, poníendolas de forma sencilla a disposición de cualquier usuario. La experiencia de otros centros en el uso de Vitalinux con determinadas Aplicaciones es clave y puedes obtener mas información en el [Foro del proyecto](https://soporte.vitalinux.educa.aragon.es/projects/vitallinux-dga-soporte/boards).
 
-Además en la [siguiente página de la wiki](https://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Ejemplo_uso_aplicaciones) podemos encontrar una tabla con Aplicaciones, clasificada por **Nivel Educativo** y **Posible Área de aplicación**, con una **descripción y experiencia** directa del propio profesor/coordinador, aunque ya algo obsoleta.
+Además en la [siguiente página de la wiki](https://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Ejemplo_uso_aplicaciones) podemos encontrar una tabla con Aplicaciones, clasificada por **Nivel Educativo** y **Posible Área de aplicación**, con una **descripción y experiencia** directa del propio docente/coordinador, aunque ya algo obsoleta.
 
 Finalmente y a modo de ejemplo podemos encontrar un listado categorizado de aplicacione educativas recomendadas en las Comunidad de Madrid para su [distribución MAX](https://www.educa2.madrid.org/web/max/-aplicaciones1).
 

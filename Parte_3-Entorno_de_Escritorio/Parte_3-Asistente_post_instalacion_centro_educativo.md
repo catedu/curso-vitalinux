@@ -6,7 +6,7 @@
 Tal como se puede apreciar a través de las siguientes capturas de pantalla, en el caso de que el uso que se le vaya a dar al sistema Vitalinux sea dentro de un **Centro Educativo** deberemos informar a Vitalinux de lo siguiente:
 
 * **¿Dirección IP del servidor Caché?** Los centros que hacen uso de Vitalinux tienen la opción de implementar un pequeño servidor dentro del centro con la finalidad de aumentar la eficacia del conjunto de equipos Vitalinux.  En concreto cabría destacar que este servidor ofrece los siguientes servicios:
-    * Servicio de carpetas compartidas para alumnos y profesores. De esta forma todos los usuarios de Vitalinux pueden almacenar de manera centralizada sus documentos haciendo que sean accesibles desde cualquier equipo del centro.  Además esto facilita la entrega de documentos entre profesores y alumnos.
+    * Servicio de carpetas compartidas para estudiantes y docentes. De esta forma todos los usuarios de Vitalinux pueden almacenar de manera centralizada sus documentos haciendo que sean accesibles desde cualquier equipo del centro.  Además esto facilita la entrega de documentos entre docentes y estudiantes.
     * Servicio de entrega de software.  Este servicio es fundamental, ya que cuando se requiere instalar un programa en todos o parte de los equipos Vitalinux del centro, en lugar de descargarse de Internet múltiples veces el mismo software, este se descarga una única vez en el servidor y posteriormente este se encarga de entregárselo a todos aquellos que lo requieran.  De esta forma reducimos el consumo de ancho de banda del centro y aceleramos el proceso de instalación de software en los equipos Vitalinux.
 
 <!-- ![Tenemos un Servidor Caché en el Centro Educativo ... ¿Cuál es su IP?](../img/Post-instalacion-3.2.png)

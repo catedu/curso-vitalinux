@@ -32,7 +32,7 @@
 -  **Generación del Inventario** de todo el software y hardware de los Equipos
 -  ...
 
-¡¡Y todo ello **de manera completamente desatendida**!!  Esto facilita la labor de los coordinadores de medios informáticos de los centros y del profesorado ya que de esta forma se pueden desentender de este tipo de tediosas tareas y dedicarse realmente a su trabajo (_enseñar_).
+¡¡Y todo ello **de manera completamente desatendida**!!  Esto facilita la labor de los coordinadores de medios informáticos de los centros y del docenteado ya que de esta forma se pueden desentender de este tipo de tediosas tareas y dedicarse realmente a su trabajo (_enseñar_).
 
 Se puede ver más en profundidad todo en la [documentación oficial de migasfree](https://fun-with-migasfree.readthedocs.io/es/master/).
 
@@ -134,7 +134,7 @@ $ sudo migasfree --update
 
 ### ¿Qué son y para qué sirven las etiquetas Migasfree? {#EtiquetasMigasfree}
 
-Las etiquetas Migasfree son utilizadas para clasificar los equipos según un criterio personal/de centro. Por ejemplo, mediante estas etiquetas podemos etiquetar a un equipo para que quede asociado a un centro educativo específico, para saber si el usuario que va a usar dicho equipo es un alumno o un profesor o para indicar que el equipo requiere de algún tipo de servicio específico (*carpetas compartidas, congelación del Escritorio, etc.*).
+Las etiquetas Migasfree son utilizadas para clasificar los equipos según un criterio personal/de centro. Por ejemplo, mediante estas etiquetas podemos etiquetar a un equipo para que quede asociado a un centro educativo específico, para saber si el usuario que va a usar dicho equipo es un estudiante o un docente o para indicar que el equipo requiere de algún tipo de servicio específico (*carpetas compartidas, congelación del Escritorio, etc.*).
 
 
 De esta forma, haciendo uso de estas etiquetas podemos distinguir a los equipos por centro al que pertenecen e instalar únicamente el software solicitado por dicho centro. Podemos además tener **etiquetas jerarqueizadas**, de forma que podemos agrupar los equipos de forma más lógica y sencilla. Por ejemplo, podríamos tener un centro con las siguientes necesidades:

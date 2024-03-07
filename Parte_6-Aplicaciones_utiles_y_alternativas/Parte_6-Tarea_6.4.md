@@ -6,7 +6,7 @@ formatoentrega='En un documento ofimático escribe y pega las fotos o capturas d
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.4.pdf</b>' %}
 
 <b>TAREA DE CARÁCTER OPCIONAL. No es obligatoria su realización para superar el curso</b>
-En la presente tarea se persigue que el alumno pueda familiarizarse, sin entrar en grandes complejidades, con una aplicación multimedia. Como a priori no conocemos cuáles son vuestras disciplinas/preferencias/gustos, se deja al alumno que elija la aplicación a usar ya que creemos que lo mejor es que sea útil. Así pues puedes realizar <b>cualquiera</b> de las siguientes tareas:
+En la presente tarea se persigue que el estudiante pueda familiarizarse, sin entrar en grandes complejidades, con una aplicación multimedia. Como a priori no conocemos cuáles son vuestras disciplinas/preferencias/gustos, se deja al estudiante que elija la aplicación a usar ya que creemos que lo mejor es que sea útil. Así pues puedes realizar <b>cualquiera</b> de las siguientes tareas:
 
 <ol type="A">
 <li>

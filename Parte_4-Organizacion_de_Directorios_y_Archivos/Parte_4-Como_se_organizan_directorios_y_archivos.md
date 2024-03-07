@@ -38,7 +38,7 @@ A diferencia de Windows, las distribuciones de GNU/Linux, y entre ellas <span st
 
 Otra diferencia importante entre <b>Windows</b> y <b>Linux</b> es que para hacer referencia a uno de los archivos u hojas de las hojas del árbol de directorios del sistema operativo, partiendo de la ráiz, Windows hace uso de la <b>barra invertida</b> <b>\</b> (<i>ALTGR + tecla de superíndices</i>) para ir separando cada una de las ramas del árbol, mientras que <b>Linux</b> hace uso de la <b>barra normal /</b> (<i>MAYUSCULAS + 7</i>).
 
-A modo de ejemplo, mientra la ruta de un archivo en Windows podría tener el siguiente aspecto <b>C:\Users\profesor\Mis Imágenes\imagen1.png</b>, en Linux sería <b>/home/profesor/Imágenes/imagen1.png</b>.
+A modo de ejemplo, mientra la ruta de un archivo en Windows podría tener el siguiente aspecto <b>C:\Users\docente\Mis Imágenes\imagen1.png</b>, en Linux sería <b>/home/docente/Imágenes/imagen1.png</b>.
 {% endnotificacion_important %}
 
 Además de lo anterior, cada sistema operativo se caracteriza por organizar los programas y datos de los usuarios de una forma particular.  Es decir, al igual que cada uno de nosotros organizaría de forma diferente en una estantería que tuviéramos un conjunto de libros de diferentes temáticas que nos diese, cada sistema operativo **organiza sus libros** (*archivos*) como él cree que estarían mejor organizados.  Por ejemplo, Windows se caracteriza por separar en dos directorios dentro de la unidad **C:\\** lo que son programas de usuario y los datos o perfiles de los usuarios, pero otros sistemas operativos consideran que esa no es una buena estrategia de organización y que sería necesario crear más directorios para su mejor organización.  A continuación se detallará someramente como se organiza todo lo anterior en Linux.
@@ -52,7 +52,7 @@ Todo directorio y archivo en Vitalinux tiene una ruta identificativa.  Esta pued
 El Explorador de Archivos nos indica en todo momento donde nos encontramos dentro del árbol de directorios y archivos
 {% endcoolimages_type2 %}
 
-La **ruta absoluta** de un directorio o archivo se caracteriza por comenzar por **la ráiz /** siguiéndole a continuación cada una de las ramas o directorios separados por la **barra normal /**.  Por ejemplo, asumiendo que colgando de la raíz **/** hay directorio que se llama **home**, y que dentro de este hay un subdirectorio que se llama **profesor**, y que a su vez tiene dentro un subdirectorio llamado **Documentos**, el cual contiene un archivo llamado **doc1.odt**, su ruta absoluta sería: **/home/profesor/Documentos/doc1.odt**.
+La **ruta absoluta** de un directorio o archivo se caracteriza por comenzar por **la ráiz /** siguiéndole a continuación cada una de las ramas o directorios separados por la **barra normal /**.  Por ejemplo, asumiendo que colgando de la raíz **/** hay directorio que se llama **home**, y que dentro de este hay un subdirectorio que se llama **docente**, y que a su vez tiene dentro un subdirectorio llamado **Documentos**, el cual contiene un archivo llamado **doc1.odt**, su ruta absoluta sería: **/home/docente/Documentos/doc1.odt**.
 
 
 ## Organización básica del Sistema de Archivos de Vitalinux {#OrganizacionClasicaSistemadeArchivosdeVitalinux}

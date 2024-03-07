@@ -53,8 +53,8 @@ Por último, comprueba lo rápido que puedes localizar un archivo o directorio q
 Con la finalidad de <b>comprender el uso de permisos</b> en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> realiza las siguientes acciones:
 <ol type="A">
 
-<li>Haciendo uso de la herramienta de gestión de usuarios que viste en la tarea anterior (<i><b>CONTROL + ESPACIO</b> y escribes <b>Usuarios y Grupos</b></i>), crea dos nuevas cuestas de usuario: 1) <b>profesor1</b> y 2) <b>profesor2</b> con contraseña para ambos <b>Passw0rd</b> (<i>la <b>o</b> es un cero</i>)</li>
-<li><b>Cierra sesión</b> (<i>CONTROL + ESPACIO y escribe <b>Cerrar Sesión</b></i>) e inicia sesión como usuario <b>profesor1</b> (<i>password <b>Passw0rd</b></i>).</li>
+<li>Haciendo uso de la herramienta de gestión de usuarios que viste en la tarea anterior (<i><b>CONTROL + ESPACIO</b> y escribes <b>Usuarios y Grupos</b></i>), crea dos nuevas cuestas de usuario: 1) <b>docente1</b> y 2) <b>docente2</b> con contraseña para ambos <b>Passw0rd</b> (<i>la <b>o</b> es un cero</i>)</li>
+<li><b>Cierra sesión</b> (<i>CONTROL + ESPACIO y escribe <b>Cerrar Sesión</b></i>) e inicia sesión como usuario <b>docente1</b> (<i>password <b>Passw0rd</b></i>).</li>
 <li>Abre el explorador de archivos (<i>Tecla Windows + E</i>) y crea dos directorios en <b>/tmp/</b> llamados <b>carpeta1</b> y <b>carpeta2</b>.  A su vez, dentro de cada uno de esos directorios crea un archivo llamado <b>misdatos.txt</b>. Los vamos a crear en el directorio /tmp/ ya que en los directorios personales de los usuarios, solo puede entrar cada usuario</li>
 <li>Pincha con el botón derecho del ratón sobre la <b>carpeta2</b> y en <b>Propiedades/permisos</b> restringe los permisos para que solamente haya acceso a el propietario y grupo de propietarios.</li>
 
@@ -63,7 +63,7 @@ Con la finalidad de <b>comprender el uso de permisos</b> en <span style='color: 
 <div class="imagetext_type2"><i>Img:</i> <tt>Desde Propiedades/permisos podemos gestionar los permisos sobre archivos y directorios</tt></div>
 </div><br>
 
-<li>Por último, cierra la sesión del usuario <b>profesor1</b> e inicia sesión como <b>profesor2</b> (<i>password <b>Passw0rd</b></i>). NO REINICIES, pues perderías lo que has creado en el directorio /tmp/.  Abre como <b>profesor2</b> el explorador de archivos, navega hasta <b>/tmp/</b> y comprueba que <b>sí</b> puedes ver el contenido de la <b>carpeta1</b> pero no modificarlo, pero en el caso de la <b>carpeta2</b> ni siquiera se puede acceder.</li>
+<li>Por último, cierra la sesión del usuario <b>docente1</b> e inicia sesión como <b>docente2</b> (<i>password <b>Passw0rd</b></i>). NO REINICIES, pues perderías lo que has creado en el directorio /tmp/.  Abre como <b>docente2</b> el explorador de archivos, navega hasta <b>/tmp/</b> y comprueba que <b>sí</b> puedes ver el contenido de la <b>carpeta1</b> pero no modificarlo, pero en el caso de la <b>carpeta2</b> ni siquiera se puede acceder.</li>
 </ol>
 
 </ol>

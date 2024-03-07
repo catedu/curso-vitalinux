@@ -70,7 +70,7 @@ Si no hay opción de tener red, podemos seguir con el procedimiento ya que aún 
 Después abriremos una sesión por terminal para poder iniciar una sesión (recordamos que el entorno gráfico impide la entrada al sistema). Para ello realizamos la combinación de teclado: CTRL+ALT+F3 (a la vez). Ésto nos llevará a una terminal:
 
 
-Una vez allí nos loguearemos indicando el usuario profesor (+Intro). Cuando nos pida la password introduciremos la contraseña que tenemos en ese equipo para ese usuario (no aparecerán los típicos *, y parecerá que no se escribe nada ). Luego pulsaremos de nuevo Intro y ya tendremos una sesión de profesor abierta en consola:
+Una vez allí nos loguearemos indicando el usuario docente (+Intro). Cuando nos pida la password introduciremos la contraseña que tenemos en ese equipo para ese usuario (no aparecerán los típicos *, y parecerá que no se escribe nada ). Luego pulsaremos de nuevo Intro y ya tendremos una sesión de docente abierta en consola:
 
 
 #### Comprobar si tenemos conectividad
@@ -84,7 +84,7 @@ Si hay conectividad tendrás más posibilidades de que todo el proceso que falta
 
 #### Ejecución de comandos que intentan resolver configuraciones o instalaciones que se han quedado a mitad
 
-Ahora deberemos introducir los dos siguientes comandos. Para ello escribe lo que se indca y pulsa Intro. Si en algún caso te pregunta por una solución escribe la opción por defecto. Si te pregunta por una contraseña, introduce la del usuario profesor:
+Ahora deberemos introducir los dos siguientes comandos. Para ello escribe lo que se indca y pulsa Intro. Si en algún caso te pregunta por una solución escribe la opción por defecto. Si te pregunta por una contraseña, introduce la del usuario docente:
 En primer lugar intentaremos que el sistema termine de configurar aquello que se pudo quedar a mitad:
 
 
@@ -123,7 +123,7 @@ Los libros de burlington se pueden desplegar de forma sencilla
 
 ### Oxford
 
-Con Oxford tenemos más problemas ya que no disponemos de todos los ipack. Conseguir más no es viable para el equipo actualmente. Además hay que tener en cuenta que la Editorial solo da soporte para instalaciones locales (no en servidor) y recomiendan que los profesores accedan a los ipack vía web usando Oxford Premium. Aún así, vemos que los ipack se pueden usar siguiendo el esquema de burlington.
+Con Oxford tenemos más problemas ya que no disponemos de todos los ipack. Conseguir más no es viable para el equipo actualmente. Además hay que tener en cuenta que la Editorial solo da soporte para instalaciones locales (no en servidor) y recomiendan que los docentes accedan a los ipack vía web usando Oxford Premium. Aún así, vemos que los ipack se pueden usar siguiendo el esquema de burlington.
 
 
 *Nota sobre flash: Los libros de Oxford usan flash en su mayoría. Si no queremos tener problemas en el uso de los mismos (cuando usamos la versión online) deberemos usar el navegador Firefox. Recordar que Google Chrome ha dejado de dar soporte y funcionlidad a flash y es posible que nos encontremos con problemas usando dicho navegador)*
@@ -140,12 +140,12 @@ La instalación del libro de Oxford en local es sencilla.
 <li> Ejecutas el instalador correspondiente. Si has instalado un Vitalinux de 32 bits tendrás que usar setup-linux. Si es de 64 bits setup-linux-x64. Para saber cual es tu arquitectura puede preguntar a la aplicación (CTRL+Espacio) "Conocer Dire..."
 
 ![](img/ejecutando-instalador-oxford.png)
-<li> Después del asistente te habrá creado un directorio en la cuenta del usuario (/home/profesor) llamado "Oxford University Press" y dentro del mismo un directorio por libro que hayas instalado. Por ejemplo, si tienes varios libros:
+<li> Después del asistente te habrá creado un directorio en la cuenta del usuario (/home/docente) llamado "Oxford University Press" y dentro del mismo un directorio por libro que hayas instalado. Por ejemplo, si tienes varios libros:
 
 ![](img/listado-libros-oxford.png)
 <li> Desde ahora puedes acceder al libro directamente entrando en el directorio que ha creado en "Oxford University Press" -&gt; linux -&gt; oup
 <ul>1.  Pero como hemos indicado, puedes usar nuestra aplicación para arrancarlo de forma cómoda
-<li> También puedes copiar el resultado (la carpeta con el libro que se ha creado en "Oxford University Press") al directorio profesor del servidor caché e indicarnos que lo has copiado (a través de la incidencia) para que lo hagamos visible a todos los equipos de tu centro
+<li> También puedes copiar el resultado (la carpeta con el libro que se ha creado en "Oxford University Press") al directorio docente del servidor caché e indicarnos que lo has copiado (a través de la incidencia) para que lo hagamos visible a todos los equipos de tu centro
 1.  **Importante:** Si en tu centro tienes ordenadores donde has instalado Vitalinux en 32bits y otros en 64 bits, tendrás que instalar el libro en un equipo de 32 y en otro de 64 y copiar ambos (en directorios separados) al caché para que lo tengas disponible para todos los ordenadores. Es decir, si solo instalas el libro en un equipo de 32 bits, lo copias al servidor y lo preparamos para que se vea de forma general, solo será accesible para equipos con 32 bits (los equipos de 64 no lo verán disponible)</li></ul></li>
 ### Libros accesibles por Blinklearning
 
@@ -288,12 +288,12 @@ Como solución de compromiso en **Vitalinux** se ofrece la opción de **Congelac
 A modo de ejemplo, si optáramos por la primera opción **(1)** de congelación percibiríamos que el Escritorio es inmutable (*el fondo de Escritorio, los elementos que contiene, su aspecto, etc.*), pero podríamos alterar el contenido del resto de carpetas del usuario (*Documentos, Descargas, etc.*) y las aplicaciones que tiene instaladas (*instalar nuevas aplicaciones, desinstalar cualquier aplicación y actualizar las que sean necesarias*).
 
 
-En el caso de que optáramos por la segunda opción **(2)** de congelación ofrecida en Vitalinux podríamos advertir que cualquier cosa que guardemos en cualquier carpeta de nuestro perfil (*Documentos, Descargas, Vídeos, Música, etc.) se perdería, al igual que cualquier modificación que hiciéramos del Escritorio.  Por contra, las aplicaciones del sistema estaría sin congelar (*instalar nuevas aplicaciones, desinstalar cualquier aplicación y actualizar las que sean necesarias*).  Puntualizar que esta congelación no impide que los alumnos y profesores puedan guardar su información, ya que o bien pueden guardarlo en su **pendrive**, o bien lo pueden guardar de manera centralizada en un pequeño servidor accesible desde cualquier equipo vitalinux del centro.*
+En el caso de que optáramos por la segunda opción **(2)** de congelación ofrecida en Vitalinux podríamos advertir que cualquier cosa que guardemos en cualquier carpeta de nuestro perfil (*Documentos, Descargas, Vídeos, Música, etc.) se perdería, al igual que cualquier modificación que hiciéramos del Escritorio.  Por contra, las aplicaciones del sistema estaría sin congelar (*instalar nuevas aplicaciones, desinstalar cualquier aplicación y actualizar las que sean necesarias*).  Puntualizar que esta congelación no impide que los estudiantes y docentes puedan guardar su información, ya que o bien pueden guardarlo en su **pendrive**, o bien lo pueden guardar de manera centralizada en un pequeño servidor accesible desde cualquier equipo vitalinux del centro.*
 
 
 
 
-**¿La congelación Total en Vitalinux no me permite guardar nada dentro de mi perfil de usuario?**\nEn realidad sólo se congela el Escritorio, y las carpetas de uso habitual (Documentos, Descargas, Vídeos, Música, etc.).  La carpeta raíz del perfil (*/home/profesor, /home/alumno, /home/aularagon, etc.*) y sus carpetas ocultas (***CONTROL + H**, para ver los directorios ocultos, los que empiezan por un punto "."*)</p></td>
+**¿La congelación Total en Vitalinux no me permite guardar nada dentro de mi perfil de usuario?**\nEn realidad sólo se congela el Escritorio, y las carpetas de uso habitual (Documentos, Descargas, Vídeos, Música, etc.).  La carpeta raíz del perfil (*/home/docente, /home/estudiante, /home/aularagon, etc.*) y sus carpetas ocultas (***CONTROL + H**, para ver los directorios ocultos, los que empiezan por un punto "."*)</p></td>
 
 
 
@@ -345,20 +345,20 @@ En el caso de las contraseñas de las redes Wireless, **si queremos evitar que e
 
 ![](img/evitar-anillo-de-claves-wireless-conexiones-de-red-4.png)
 
-## ¿Qué implica tener activa en Vitlainux la etiqueta ENT-ALUMNO o ENT-PROFESOR?
+## ¿Qué implica tener activa en Vitlainux la etiqueta ENT-estudiante o ENT-docente?
 
-Al tener marcada alguna de esas etiquetas podemos hacer tareas destinadas a los equipos que usen o bien profesores o bien alumnos.  Es decir, puede ser que un profesor llamado "arturo" trabaje bajo una cuenta de usuario que ha creado (p.e. "arturo").  Sólo a través de dicha etiqueta podemos actuar sobre ese equipo Vitalinux sabiendo que ese usuario "arturo" es en realidad un "profesor", y no un "alumno", y así de esta manera configurar lo que se nos pueda pedir que hagamos.
-
-
-Por ejemplo, configurar los libros de inglés de Oxford en los equipos Vitalinux que usen los profesores de un centro (aquellos que tengan asignada la etiqueta ENT-PROFESOR).
+Al tener marcada alguna de esas etiquetas podemos hacer tareas destinadas a los equipos que usen o bien docentes o bien estudiantes.  Es decir, puede ser que un docente llamado "arturo" trabaje bajo una cuenta de usuario que ha creado (p.e. "arturo").  Sólo a través de dicha etiqueta podemos actuar sobre ese equipo Vitalinux sabiendo que ese usuario "arturo" es en realidad un "docente", y no un "estudiante", y así de esta manera configurar lo que se nos pueda pedir que hagamos.
 
 
-## Para evitar que los profesores puedan modificar la configuración de impresoras e instalación de programas, ¿la opción más lógica es que entren con el usuario alumno?
-
-En principio da igual, ya que para poder hacer cualquier cambio en un equipo Vitalinux es necesario introducir la contraseña de administración, del profesor o de alguna cuenta administrativa.  Es decir, si un profesor inicia sesión de manera automática como usuario del sistema **"profesor"**, si no sabe su contraseña asociada no va a poder hacer nada.  Es decir, la seguridad en ese aspecto radica en conocer la password administrativa.
+Por ejemplo, configurar los libros de inglés de Oxford en los equipos Vitalinux que usen los docentes de un centro (aquellos que tengan asignada la etiqueta ENT-docente).
 
 
-En relación a esa **password** asociada a los usuarios con perfil de **Administrador** (*p.e. profesor, dga, ...*), hay centros educativos que nos piden cambiar las contraseñas por defecto en todos sus equipos Vitalinux a través de migasfree (*nos envían de manera personal/confidencial a nuestro email las nuevas passwords deseadas para los usuarios del sistema Vitalinux*).  Una vez sabemos nosotros las nuevas contraseñas, de manera automátizada y transparente para los centros, **migasfree** actualiza las passwords en todos sus equipos.
+## Para evitar que los docentes puedan modificar la configuración de impresoras e instalación de programas, ¿la opción más lógica es que entren con el usuario estudiante?
+
+En principio da igual, ya que para poder hacer cualquier cambio en un equipo Vitalinux es necesario introducir la contraseña de administración, del docente o de alguna cuenta administrativa.  Es decir, si un docente inicia sesión de manera automática como usuario del sistema **"docente"**, si no sabe su contraseña asociada no va a poder hacer nada.  Es decir, la seguridad en ese aspecto radica en conocer la password administrativa.
+
+
+En relación a esa **password** asociada a los usuarios con perfil de **Administrador** (*p.e. docente, dga, ...*), hay centros educativos que nos piden cambiar las contraseñas por defecto en todos sus equipos Vitalinux a través de migasfree (*nos envían de manera personal/confidencial a nuestro email las nuevas passwords deseadas para los usuarios del sistema Vitalinux*).  Una vez sabemos nosotros las nuevas contraseñas, de manera automátizada y transparente para los centros, **migasfree** actualiza las passwords en todos sus equipos.
 
 
 ## ¿Cambiar el idioma para un usuario es posible?
@@ -383,7 +383,7 @@ El problema detectado consiste en que en ocasiones tras guardar la resolución d
 Para dar solución a este problema de imposición de resolución gráfica, gracias a Migasfree, actuamos de la siguiente manera de manera automática y desatendida:
 
 
-1.  Creamos a través de migasfree un acceso directo en el Escritorio o lanzador donde al pinchar sobre él se cambiará a la resolución deseada. Esta opción es deseado por aquellos centros (equipos de profesores) donde no siempre están proyectando la imagen, de tal forma, que sólo cuando se va a proyectar es cuando intencionadamente el profesor pincha dos veces sobre dicho acceso directo del Escritorio (o CONTROL + ESPACIO ...)
+1.  Creamos a través de migasfree un acceso directo en el Escritorio o lanzador donde al pinchar sobre él se cambiará a la resolución deseada. Esta opción es deseado por aquellos centros (equipos de docentes) donde no siempre están proyectando la imagen, de tal forma, que sólo cuando se va a proyectar es cuando intencionadamente el docente pincha dos veces sobre dicho acceso directo del Escritorio (o CONTROL + ESPACIO ...)
 1.  Configuramos el equipo para forzar esa resolución tras iniciar sesión, justo antes de que empiece la comunicación con el servidor Migasfree. Esta opción forzará la resolución elegida y guardada en cuanto el sistema, tras iniciar sesión, reconozca ya las interfaces gráficas y sus posibilidades.
 
 ## ¿Cómo subir archivos a Google Drive?
