@@ -6,7 +6,7 @@ Para su comprobación puedes abrir un navegador Web: teclea la combinación <b>C
 
 Si no tienes conexión a Internet y el equipo se conecta por cable, revisa que estés correctamente conectado y que la red de tu casa tenga <b>servidor DHCP</b> (<i>que será lo normal en un entorno doméstico</i>).
 
-En el caso de que la conexión sea inalámbrica deberás configurar previamente la red Wireless pinchando con el botón izquierdo del ratón sobre el icono de red que hay en la parte derecha de la barra inferior de notificaciones, permitiéndote elegir la red Wireless a la que te quieres conectar e introduciendo la contraseña de la red a la que te conectes.  Si necesitas más información acerca de <a href="http://wiki.vitalinux.educa.aragon.es/index.php/Vitalinux/Configurar_la_red">Cómo configurar la red en Vitalinux puedes acceder a la Wiki del proyecto Vitalinux</a>.
+En el caso de que la conexión sea inalámbrica deberás configurar previamente la red Wireless pinchando con el botón izquierdo del ratón sobre el icono de red que hay en la parte derecha de la barra inferior de notificaciones, permitiéndote elegir la red Wireless a la que te quieres conectar e introduciendo la contraseña de la red a la que te conectes.
 
 <div style="text-align: center;">
 <img src="../img/Area-de-notificaciones_migafree_red.png">

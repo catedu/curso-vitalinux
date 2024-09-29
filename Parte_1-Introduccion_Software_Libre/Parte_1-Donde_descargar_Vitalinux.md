@@ -11,12 +11,12 @@ En lo que a este curso respecta, en el ámbito de los sistemas operativos, una i
 
 ### Área de DESCARGA de ISOS e Imágenes {#areaDescargas}
 
-El proyecto de Software Libre <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> dispone de una <a href="http://wiki.vitalinux.educa.aragon.es">Wiki</a> de referencia en la cual se públican todos las novedades, noticias, avisos, contenidos (<i>cursos de formación</i>), FAQs, ... y demás aspectos que le conciernen.  En concreto, en esta <a href="http://wiki.vitalinux.educa.aragon.es">Wiki</a> podemos encontrar el <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_principal/Materiales_e_im%C3%A1genes">Área de Descargas</a> desde la cual obtener las imágenes ISOs para su posterior prueba e instalación.
+El proyecto de Software Libre <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> dispone de una <a href="http://docs.vitalinux.educa.aragon.es">Web de documentación</a> de referencia en la cual se públican todos las novedades, noticias, avisos, contenidos (<i>cursos de formación</i>), FAQs, ... y demás aspectos que le conciernen.  En concreto, en éste servicio podemos encontrar el <a href="https://docs.vitalinux.educa.aragon.es/descargas/">Área de Descargas</a> desde la cual obtener las imágenes ISOs para su posterior prueba e instalación.
 
 Una vez hayamos descargado la imagen ISO de Vitalinux, antes de hacer uso de ella, es aconsejable [comprobar la integridad](#comprobarIntegrar) del archivo descargado, ya que al tratarse de archivo muy pesados (<i>tamaño > 2GB</i>) es posible que durante el proceso de descarga se haya producido algún error.
 
 {% notificacion_important title='Área de Descargas de Vitalinux' %}
-Desde él <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_principal/Materiales_e_im%C3%A1genes">Área de Descargas</a> podrás descargar el sistema Vitalinux EDU DGA en sus diferentes formatos, siendo estos:
+Desde él <a href="https://docs.vitalinux.educa.aragon.es/descargas/">Área de Descargas</a> podrás descargar el sistema Vitalinux EDU DGA en sus diferentes formatos, siendo estos:
 
 <p>
 
@@ -45,7 +45,7 @@ Por ello, cuando nos descargamos un fichero de Internet, y en éste caso un fich
 
 ## Comprobar la Integridad de un fichero descargado {#comprobarIntegrar}
 
-Para verificar que la descarga de un fichero ha sido correcta existen las "*firmas*", "*resúmenes*" o "*ficheros hash*". Si observas, en el <a href="http://wiki.vitalinux.educa.aragon.es/index.php/P%C3%A1gina_principal/Materiales_e_im%C3%A1genes">Área de Descargas</a> al lado del fichero a descargar tienes otra descarga disponible: **MD5SSUM**. Prueba a bajar uno y abrirlo con el bloc de notas o cualquier editor de texto plano.
+Para verificar que la descarga de un fichero ha sido correcta existen las "*firmas*", "*resúmenes*" o "*ficheros hash*". Si observas, en el <a href="https://docs.vitalinux.educa.aragon.es/descargas/">Área de Descargas</a> al lado del fichero a descargar tienes otra descarga disponible: **MD5SSUM**. Prueba a bajar uno y abrirlo con el bloc de notas o cualquier editor de texto plano.
 
 Observarás que es un fichero de texto que contiene simplemente una línea con el **resumen** del fichero y el nombre del fichero. El resumen de un archivo es una cadena de texto de tamaño fijo (<i>32 caracteres</i>) resultante de aplicar un algoritmo al fichero original, de forma que si el archivo original cambiara en lo más mínimo, el resultado de aplicar de nuevo el resumen sería completamente distinto.
 
@@ -69,7 +69,7 @@ cd Descargas
 md5sum -c fichero_md5_descargado.md5
 ```
 
--  Si usamos **Windows**, podemos descargarnos el programa [winmd5free](https://wiki.vitalinux.educa.aragon.es/isos/winmd5free.zip). Lo ejecutamos y seguiremos unos sencillos pasos:
+-  Si usamos **Windows**, podemos descargarnos el programa winmd5free. Lo ejecutamos y seguiremos unos sencillos pasos:
     1.  Ejecuta el programa y busca el archivo del cual deseas comprobar su integridad (<i>p.e. *.iso</i>)
     1.  El programa comprobará el fichero y generará un **resumen** o **hash** resultante 
     1.  Abre con un <b>Bloc de Notas</b> el fichero con extensión MD5 que descargaste que contiene el **resumen MD5** del archivo original (<i>p.e. *.iso.md5</i>).<br>

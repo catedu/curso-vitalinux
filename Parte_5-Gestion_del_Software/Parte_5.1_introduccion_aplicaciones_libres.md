@@ -8,7 +8,7 @@ Nos van a facilitar la realización de tareas complejas. A diferencia del sistem
 
 Las aplicaciones no dejan de ser un **programa escrito en un lenguaje de programación** que realiza unas funcionalidades deseadas. Podremos disponer de Aplicaciones Libres o Aplicaciones No Libres, Comerciales o No comerciales, de código abierto pero no libres (con una licencia restrictiva por ejemplo), gratuitas o de pago...Compiladas (o disponibles) para ciertos sistemas operativos (por ejemlo solo para MacOs) o incluso para algunas arquitecturas concretas (*64 bits*)
 
-En nuestro caso nos interesa centrarnos y profundizar en las aplicaciones libres. Las **razones** para ello, tal como hemos hablado al principio, son aplastantes en contraposición a las aplicaciones comerciales o privativas sobre todo en el ámbito de la educación:
+En nuestro caso nos interesa centrarnos y profundizar en las aplicaciones libres. Las **razones** para ello son aplastantes en contraposición a las aplicaciones comerciales o privativas sobre todo en el ámbito de la educación:
 
 * El código es **auditable**, garantía de que el código hace lo que tiene que hacer y no realiza acciones en segundo plano.
    Podemos modificar el código. Al tener disponible el código y poder modificarlo, podemos cambiar algo que no nos guste, personalizarlo e incluso involucrar a los estudiantes en dicho proceso
