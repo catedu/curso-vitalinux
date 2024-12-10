@@ -10,7 +10,8 @@ En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b>
 <ol>
 
 <li>
-Gestión de Software desde <b>Vitalinux Play</b>. Recuerda que para instalar apliaciones mediante Vitalinux Play deberás contar con conexión a Internet.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por nivel escribiendo en el campo de búsqueda <b>primaria/secundaria/bachillerato</b>, o por área escribiendo algún patrón tipo <b>matemáticas/música/tecnología</b>, e instala/desinstala una aplicación que te parezca.  Comprueba lo cómodo que instalar software desde este almacén (incluso si la quieres desinstalar)
+Gestión de Software desde <b>Vitalinux Play</b>. Recuerda que para instalar apliaciones mediante Vitalinux Play deberás tener conexión a Internet.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por <b>nivel educativo</b> indicándolo en el campo de búsqueda (<i>primaria, secundaria, bachillerato, etc.</i>), o por <b>área de conocimiento</b> (<i>matemáticas, música, tecnología, etc.</i>), e instala/desinstala alguna de las aplicaciones filtradas.  Comprueba lo cómodo que instalar y desinstalar software desde este almacén.
+Nota: El listado completo de todas las aplicaciones disponibles en Vialinux Play lo puedes encontrar la web de documentación del proyecto Vitalinux (https://docs.vitalinux.educa.aragon.es/recursos/Apps.html#aplicaciones-disponibles-en-vitalinux-play).
 </li>
 
 <br><br>
@@ -55,7 +56,7 @@ Como en ocasiones <i>más vale un buen videotutorial que mil palabras</i> a cont
 
 <br><br>
 <li>
-Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad de suavizar al usuario final el paso de <b>Microsoft Windows</b> a <b>Linux</b> permitiéndonos la instalación y ejecución de programas creados para Windows en Linux/Vitalinux. De esta forma, en caso de no encontrar ninguna alternativa en software libre a las aplicaciones privativas que usamos en Windows (<i>siempre es aconsejable buscar software alternativo de código libre/abierto</i>), gracias a Wine, vamos poder instalar y trabajar con nuestra aplicación Windows. A modo de ejemplo, como tarea se propone instalar un programa de Windows en Vitalinux:
+Tal como se ha explicado en la parte teórica <b>WinE</b> surge con la finalidad de facilitar al usuario final el paso de <b>Microsoft Windows</b> a <b>Linux</b> permitiéndonos la instalación y ejecución de programas creados para Windows en nuestro sistema operativo Linux/Vitalinux. De esta forma, en caso de no encontrar ninguna alternativa en software libre a las aplicaciones privativas que usamos en Windows (<i>siempre es aconsejable buscar software alternativo de código libre/abierto</i>), gracias a Wine, vamos poder instalar y trabajar con nuestra aplicación Windows. A modo de ejemplo, como tarea se propone instalar un programa de Windows en Vitalinux:
 </li>
 <ol type="A">
 <li>
@@ -82,7 +83,7 @@ A priori, <b>Wine no nos garantiza un 100% de probabilidad de que una aplicació
 <b>Determinadas aplicaciones Windows requieren una determinada versión de Wine (<i>1.6, 1.7, 2...</i>) para funcionar</b>. Esto es un gran problema, ya que a priori sólo podemos tener instalada una única versión de Wine.
 </li>
 <li>
-Al igual que en Windows, y a diferencia de Linux, para instalar una aplicación sobre Wine previamente tenemos que buscarla por Internet, fiarnos de ella, y descargarla. En ocasiones, el software de Windows que nos descargamos esta <b>infectado</b> o realiza acciones que desconocemos poniendo en <b>jaque</b> a nuestro sistema.
+Para instalar una aplicación sobre Wine previamente tenemos que buscarla por Internet, fiarnos de ella, y descargarla. En ocasiones, el software de Windows que nos descargamos esta <b>infectado</b> o realiza acciones que desconocemos afectando al correcto funcionamiento de nuestro sistema.
 </li>
 
 </ol>
