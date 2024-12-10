@@ -11,7 +11,7 @@ En la presente tarea repasaremos como <b>instalar y desinstalar aplicaciones</b>
 
 <li>
 Gestión de Software desde <b>Vitalinux Play</b>. Recuerda que para instalar apliaciones mediante Vitalinux Play deberás tener conexión a Internet.  Abre la aplicación <b>Vitalinux Play</b>, busca aplicaciones por <b>nivel educativo</b> indicándolo en el campo de búsqueda (<i>primaria, secundaria, bachillerato, etc.</i>), o por <b>área de conocimiento</b> (<i>matemáticas, música, tecnología, etc.</i>), e instala/desinstala alguna de las aplicaciones filtradas.  Comprueba lo cómodo que instalar y desinstalar software desde este almacén.
-Nota: El listado completo de todas las aplicaciones disponibles en Vialinux Play lo puedes encontrar la web de documentación del proyecto Vitalinux (https://docs.vitalinux.educa.aragon.es/recursos/Apps.html#aplicaciones-disponibles-en-vitalinux-play).
+Nota: El listado completo de todas las aplicaciones disponibles en Vialinux Play lo puedes encontrar la web de documentación del proyecto Vitalinux (<a href="https://docs.vitalinux.educa.aragon.es/recursos/Apps.html#aplicaciones-disponibles-en-vitalinux-play">Apps Vitalinux Play</a>).
 </li>
 
 <br><br>

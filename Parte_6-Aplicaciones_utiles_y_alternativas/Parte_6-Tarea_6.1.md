@@ -1,13 +1,17 @@
-{% notificacion_task title='Acciones del Explorador de Archivos',
+{% notificacion_task title='Utilidades de Vitalinux',
 numexer='6.1',
-req='Es necesario haber leído todo lo referente a <a href="./Parte_6-Acciones_del_explorador_de_archivos.md">las Acciones del Explorador de Archivos de Vitalinux</a>',
+req='Es necesario haber leído todo lo referente utilidades y <a href="./Parte_6-Acciones_del_explorador_de_archivos.md">Acciones del Explorador de Archivos de Vitalinux</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
 <br>
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.1.pdf</b>' %}
 
-Mediante la siguiente tarea nos familiarizaremos con una de las características de los <b>Exploradores de Archivos</b> en Linux: el uso de <b>acciones</b> programadas.  <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span></b> hace uso del Explorador de Archivos <b>Pcmanfm</b> en Vitalinux 2, y <b>Nemo</b> en Vitalinux 3, los cuales se caracterizan por ser muy ligeros, pero al mismo tiempo, muy potentes.  Con la finalidad de apreciar la gran versatilidad y funcionalidad del explorador de archivos a continuación se propone comprobar las siguientes <b>acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>):
+Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que están disponibles o pueden instalarse en Vitalinux y que seguramente te resultarán muy útiles en tu día a día: utilidades, acciones del explorador de archivos, etc.
 
 <ol>
+<li>
+<b>Acciones del Explorador de Archivos</b>: <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span></b> hace uso del Explorador de Archivos <b>Pcmanfm</b> en Vitalinux 2, y <b>Nemo</b> en Vitalinux 3, los cuales se caracterizan por ser muy ligeros, pero al mismo tiempo, muy potentes. Mediante el uso de las <b>Acciones</b> vamos a poder realizar tareas simples desde el propio <b>Explorador de Archivos</b> sin necesidad de depender de una aplicación externa:   Con la finalidad de apreciar la gran versatilidad y funcionalidad del explorador de archivos a continuación se propone comprobar las siguientes <b>acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>).
+</li>
+<ul>
 <li>Abre el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>)</li>
 <li><b>Reproducir Vídeo en Miniatura</b>.  Almacena un <b>archivo de vídeo</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre él, y selecciona dentro de <b>"Utilidades Vídeos"</b> la opción <b>"Reproducir Vídeo en Miniatura"</b>.  Comprueba que el vídeo se reproduce en una de las esquinas de tu Entorno de Escritorio pudiendo trabajar simultáneamente con el equipo con otras aplicaciones.  Por ejemplo, abre <b>Libreoffice Writer</b> y redacta algo mientras se visualiza el vídeo en miniatura.  Para cerrar el vídeo debes pinchar sobre él con el ratón y pulsar la tecla <b>q</b> (<i>quit</i>).
 
@@ -63,6 +67,7 @@ Mediante la siguiente tarea nos familiarizaremos con una de las características
 
 </ul>
 
+</ul>
 <li>
 <b>Cifrar ficheros</b>. Comprueba que si pinchas con el botón derecho del ratón sobre un archivo mostrado por el <b>Explorador de Archivos</b> se te ofrecerá la posibilidad de <b>"Cifrar Archivo"</b>. Este cifrado generará un nuevo archivo cifrado (<i>*.aes</i>) a partir del original basado en un clave que se te solicitará (<i>deberás introducir la clave dos veces como confirmación</i>). Esa misma clave será la que tendrá que introducir el usuario destinatario para poderlo descifrar.  Para comprobar su funcionamiento, escoge un archivo PDF, imagen o documento ofímatico que tengas a mano y cífralo introduciendola la clave que tu desees. Después cópialo a otro directorio diferente y comprueba que al pinchar con el botón derecho del ratón sobre el archivo cifrado (<i>*.aes</i>) el <b>Explorador de Archivos</b> te ofrecerá la opción de <b>"Descifrar Fichero"</b>.
 </li>
