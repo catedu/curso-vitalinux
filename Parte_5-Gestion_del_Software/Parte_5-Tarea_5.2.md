@@ -15,7 +15,7 @@ En concreto, mediante la realización de la siguiente tarea se pretende comprend
 </li>
     <ol type="A">
     <li>
-    Cuando se ejecuta a través de <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> la falla <b>CONF-SOFT-LIBREOFFICE</b> encargada de configurar aspectos de personalización de Libreoffice.
+    Cuando se ejecuta a través de <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span></b> la falla <b>ZCONF-SOFT-NOMCACHE-HOSTS</b> encargada de configurar en el equipo el nombre y dirección IP del servidor caché que se coloca en los <a href="https://docs.vitalinux.educa.aragon.es/info/ListadoCentros.html" target="_blank" rel="noopener noreferrer">centros educativos Vitalinux oficiales</a>.
     </li>
     <li>
     Cuando <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Migasfree</tt></span> da la orden de actualizar el software del sistema</b>.
@@ -26,7 +26,7 @@ Comprobación de <b>Etiquetas <span style='color: darkblue; font-weight: 600'; f
 </li>
 
 <li>
-Por último se propone asignar una nueva <b>etiqueta Migasfree</b> a tu equipo Vitalinux y ver que efectos le provoca:
+Por último se propone asignar una nueva <b>etiqueta Migasfree</b> a tu equipo Vitalinux y ver que efectos le provoca. El etiquetado en Migasfree es la clave para la personalización de los equipos de los centros educativos: en función del etiquetado se le instalan unas u otras aplicaones, se configuran unas impresoras u otras, se modifica su entorno de Escritorio y se customiza cualquier aspecto del equipo que sea susceptible de ser configurado vía software. Para hacer un pequeña comprobación de todo su potencial:
 </li>
 <ol type="A">
 <li>
@@ -36,17 +36,14 @@ Asegurate de que tu equipo Vitalinux ha terminado la comunicación con <span sty
 </li>
     <ul>
     <li>
-    En el Escritorio del usuario aparezcan tres nuevas carpetas
+    En el Escritorio del usuario aparezcan tres nuevas carpetas.
     </li>
     <li>
-    Que se instalen nuevas aplicaciónes para las prácticas posteriores, y una por ejemplo llamada <b>Calibre</b> pensada para el tratamiento de e-books
-    </li>
-    <li>
-    Que se haya instalado una extensión en o chromium-browser o google-chrome (por defecto se instala chromium-versión libre de Google Chrome) llamada screencastify, que te puede permitir hacer videotutoriales. Depués de un primer arranque del navegador, puede tardar en aparecer la extensión (mientras se instala por primera vez).
+    Que se instalen nuevas aplicaciónes para las prácticas posteriores, y una por ejemplo llamada <b>Calibre</b> pensada para el tratamiento de e-books.
     </li>
     </ul>
 <li>
-Comprueba el efecto de la asignacióna anterior, advirtiendo que te han aparecido tres carpetas nuevas en el Escritorio y que dispones de esta nueva aplicación: <b>"CONTROL + ESPACIO"</b> y teclea <b>"Calibre ..."</b>
+Comprueba el efecto de la asignacióna anterior, advirtiendo que te han aparecido tres carpetas nuevas en el Escritorio y que dispones de esta nueva aplicación: <b>"CONTROL + ESPACIO"</b> y teclea <b>"Calibre"</b>
 </li>
 
 </ol>
