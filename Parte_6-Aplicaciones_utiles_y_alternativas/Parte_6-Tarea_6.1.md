@@ -1,7 +1,7 @@
 {% notificacion_task title='Utilidades de Vitalinux',
 numexer='6.1',
 req='Es necesario haber leído todo lo referente utilidades y <a href="./Parte_6-Acciones_del_explorador_de_archivos.md">Acciones del Explorador de Archivos de Vitalinux</a>',
-formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
+formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Haz lo mismo con los GIF animados que hayas generado (puedes crear un archivo ZIP compriendo el conjunto de elementos a entregar). Por tanto, envía al tutor un único archivo <b>.zip</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.zip</b>.
 <br>
 Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.1.pdf</b>' %}
 
@@ -13,17 +13,6 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 </li>
 <ul>
 <li>Abre el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>)</li>
-<li><b>Reproducir Vídeo en Miniatura</b>.  Almacena un <b>archivo de vídeo</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre él, y selecciona dentro de <b>"Utilidades Vídeos"</b> la opción <b>"Reproducir Vídeo en Miniatura"</b>.  Comprueba que el vídeo se reproduce en una de las esquinas de tu Entorno de Escritorio pudiendo trabajar simultáneamente con el equipo con otras aplicaciones.  Por ejemplo, abre <b>Libreoffice Writer</b> y redacta algo mientras se visualiza el vídeo en miniatura.  Para cerrar el vídeo debes pinchar sobre él con el ratón y pulsar la tecla <b>q</b> (<i>quit</i>).
-
-
-<br><br><div class="container">
-<img class="coolimage" src="../img/aplicaciones-reproducir-video-en-miniatura.png" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Reproducir Vídeo en miniatura</tt></div>
-</div><br>
-</li>
-
-<li><b>Comprimir MP3</b>.  Almacena <b>archivos MP3</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> selecciona varios de ellos (<i>pincha con el botón izquierdo del ratón sobre ellos manteniendo la tecla CONTROL pulsada</i>), y estando seleccionados, pincha con el botón derecho del ratón sobre ellos y selecciona dentro de <b>"Utilidades Música"</b> la opción <b>"Comprimir MP3"</b>.  Comprueba que se crea una subcarpeta con los archivos comprimidos (<i>p.e. 64Kbps</i>), y advierte que se ha reducido su tamaño, pero que al mismo tiempo se escuchan bien.
- </li>
 
 <li><b>Utilidades PDFs</b>: Desde el explorador de archivos podrás realizar de una manera muy eficiente la compresión de archivos PDF, la unión de varios de ellos o la extracción de un conjunto de páginas.  Prueba alguna de ellas.
 </li>
@@ -67,7 +56,34 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 
 </ul>
 
+<li><b>Comprimir MP3</b>.  Almacena <b>archivos MP3</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> selecciona varios de ellos (<i>pincha con el botón izquierdo del ratón sobre ellos manteniendo la tecla CONTROL pulsada</i>), y estando seleccionados, pincha con el botón derecho del ratón sobre ellos y selecciona dentro de <b>"Utilidades Música"</b> la opción <b>"Comprimir MP3"</b>.  Comprueba que se crea una subcarpeta con los archivos comprimidos (<i>p.e. 64Kbps</i>), y advierte que se ha reducido su tamaño, pero que al mismo tiempo se escuchan bien.
+ </li>
+
+<li><b>Reproducir Vídeo en Miniatura</b>.  Almacena un <b>archivo de vídeo</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre él, y selecciona dentro de <b>"Utilidades Vídeos"</b> la opción <b>"Reproducir Vídeo en Miniatura"</b>.  Comprueba que el vídeo se reproduce en una de las esquinas de tu Entorno de Escritorio pudiendo trabajar simultáneamente con el equipo con otras aplicaciones.  Por ejemplo, abre <b>Libreoffice Writer</b> y redacta algo mientras se visualiza el vídeo en miniatura.  Para cerrar el vídeo debes pinchar sobre él con el ratón y pulsar la tecla <b>q</b> (<i>quit</i>).
+
+
+<br><br><div class="container">
+<img class="coolimage" src="../img/aplicaciones-reproducir-video-en-miniatura.png" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Reproducir Vídeo en miniatura</tt></div>
+</div><br>
+</li>
+
 </ul>
+
+<li>
+<b>Crear GIF animado</b>. Abre <b>Vitalinux Play</b> e instala la aplicación <b>Peek</b>. Esta aplicación nos permite crear un gif animado del área del entorno de Escritorio que encuadremos, resultando útil para explicar a nuestro alumnado determinados procedimientos informáticos. Para probarlo, una vez instalado, abre <b>Peek</b> tecleando <i>Control + Espacio</i> y escribiendo <i>Peek</i>. Verás que se abrirá un marco de encuadre que ajustarás al área que quieres grabar. A modo de ejemplo, graba y genera un GIF animado mostrando como poner en negrita o cursiva un texto en la herramienta ofimática Libreoffice Writer, aunque puedes hacerlo que cualquier otro procedimiento. El GIF animado resultante lo deberás adjuntar a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+</li>
+
+<li>
+<b>Gestión del historial del portapapeles</b>. Un aspecto que puede resultar muy útil y hacer más eficiente en su uso al equipo y la gestión adecuada del historial del portapapeles. El portapapeles es el lugar de nuestro equipo donde se van almacenando todas las cosas que vamos copiando. En ocasiones nos puede interesar recuperar del portapapeles elementos que copiamos con anterioridad para usarlos en documentos que estamos editando y no sabemos como hacerlo. Aunque hay diferentes formas de hacerlo, aquí haremos uso de nuestro lanzador de aplicaciones <b>Albert</b>, nuestro querido <b>Control + Espacio</b>. En el siguiente GIF animado hecho con Peek se muestra como configurar Albert para hacer uso del portapapeles o clipboard, para posteriormente copiar varios trozos de textos (<i>atajo de teclado <b>control+c</b></i>) y pegarlos en un documento que estamos editando (<i>atajo de teclado <b>control+v</b></i>). Haz tu lo mismo y comprueba su utilidad. Genera tu propio GIF animado explicando como hacer uso de esta utilidad y agrégalo a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+
+<div style="text-align: center;">
+<img src="../img/parte6/vx-albert-clipboard.gif" style="width: 400px">
+</div>
+</li>
+<li>
+</li>
+
 <li>
 <b>Cifrar ficheros</b>. Comprueba que si pinchas con el botón derecho del ratón sobre un archivo mostrado por el <b>Explorador de Archivos</b> se te ofrecerá la posibilidad de <b>"Cifrar Archivo"</b>. Este cifrado generará un nuevo archivo cifrado (<i>*.aes</i>) a partir del original basado en un clave que se te solicitará (<i>deberás introducir la clave dos veces como confirmación</i>). Esa misma clave será la que tendrá que introducir el usuario destinatario para poderlo descifrar.  Para comprobar su funcionamiento, escoge un archivo PDF, imagen o documento ofímatico que tengas a mano y cífralo introduciendola la clave que tu desees. Después cópialo a otro directorio diferente y comprueba que al pinchar con el botón derecho del ratón sobre el archivo cifrado (<i>*.aes</i>) el <b>Explorador de Archivos</b> te ofrecerá la opción de <b>"Descifrar Fichero"</b>.
 </li>
@@ -93,7 +109,7 @@ Teclea <b>CONTROL + ESPACIO</b> y escribe <b>Abrir Web o Fichero con contenidos 
 </ol>
 </li>
 
-<li>Por último, indica alguna funcionalidad que te gustaría que estuviera incluida dentro del Explorador de Archivos, y que actualmente no esta implementada.  <b>¡¡Esto nos puede servir a los que desarrollamos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> para mejorarlo!!</b>
+<li>Por último, indica alguna funcionalidad que te gustaría que estuviera incluida dentro del Explorador de Archivos o a nivel de sistema, y que actualmente no esta implementada.  <b>¡¡Esto nos puede servir a los que desarrollamos <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> para mejorarlo!!</b>
 </li>
 
 </ol>
