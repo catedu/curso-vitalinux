@@ -8,6 +8,33 @@ Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiale
 Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que están disponibles o pueden instalarse en Vitalinux y que seguramente te resultarán muy útiles en tu día a día: utilidades, acciones del explorador de archivos, etc.
 
 <ol>
+
+<li>
+<b>Crear GIF animado</b>. Abre <b>Vitalinux Play</b> e instala la aplicación <b>Peek</b>. Esta aplicación nos permite crear un gif animado del área del entorno de Escritorio que encuadremos, resultando útil para explicar a nuestro alumnado determinados procedimientos informáticos. Para probarlo, una vez instalado, abre <b>Peek</b> tecleando <i>Control + Espacio</i> y escribiendo <i>Peek</i>. Verás que se abrirá un marco de encuadre que ajustarás al área que quieres grabar. A modo de ejemplo, graba y genera un GIF animado mostrando como poner en negrita o cursiva un texto en la herramienta ofimática Libreoffice Writer, aunque puedes hacerlo que cualquier otro procedimiento. El GIF animado resultante lo deberás adjuntar a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+</li>
+
+<li>
+<b>Gestión del historial del portapapeles</b>. Un aspecto que puede resultar muy útil y hacer más eficiente en su uso al equipo y la gestión adecuada del historial del portapapeles. El portapapeles es el lugar de nuestro equipo donde se van almacenando todas las cosas que vamos copiando. En ocasiones nos puede interesar recuperar del portapapeles elementos que copiamos con anterioridad para usarlos en documentos que estamos editando y no sabemos como hacerlo. Aunque hay diferentes formas de hacerlo, aquí haremos uso de nuestro lanzador de aplicaciones <b>Albert</b>, nuestro querido <b>Control + Espacio</b>. En el siguiente GIF animado hecho con Peek se muestra como configurar Albert para hacer uso del portapapeles o clipboard, para posteriormente copiar varios trozos de textos (<i>atajo de teclado <b>control+c</b></i>) y pegarlos en un documento que estamos editando (<i>atajo de teclado <b>control+v</b></i>). Haz tu lo mismo y comprueba su utilidad. Genera tu propio GIF animado explicando como hacer uso de esta utilidad y agrégalo a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+
+<br><br><div class="container">
+<img class="coolimage" src="../img/parte6/vx-albert-clipboard.gif" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Reproducir Vídeo en miniatura</tt></div>
+</div><br>
+</li>
+
+<li>
+<b>Cifrar ficheros</b>. Comprueba que si pinchas con el botón derecho del ratón sobre un archivo mostrado por el <b>Explorador de Archivos</b> se te ofrecerá la posibilidad de <b>"Cifrar Archivo"</b>. Este cifrado generará un nuevo archivo cifrado (<i>*.aes</i>) a partir del original basado en un clave que se te solicitará (<i>deberás introducir la clave dos veces como confirmación</i>). Esa misma clave será la que tendrá que introducir el usuario destinatario para poderlo descifrar.  Para comprobar su funcionamiento, escoge un archivo PDF, imagen o documento ofímatico que tengas a mano y cífralo introduciendola la clave que tu desees. Después cópialo a otro directorio diferente y comprueba que al pinchar con el botón derecho del ratón sobre el archivo cifrado (<i>*.aes</i>) el <b>Explorador de Archivos</b> te ofrecerá la opción de <b>"Descifrar Fichero"</b>.
+</li>
+
+<li>
+<b>Descargar vídeos de youtube</b>. Para la siguiente utilidad será necesario instalar el programa <b>4k Video Downloader</b> haciendo uso de <b>Vitalinux Play</b> o <b>synaptic</b>. Una vez instalado, lanza el programa tecleando <b>control+espacio</b> y escribiendo <b>4k Video Downloader</b> (<i>Si el programa te indica que debes descargar una actualización no lo hagas, de ello nos encargamos los técnicos de Vitalinux a través de Migasfree</i>). A continuación buscaremos un video en youtube a descargar, para lo cual haremos uso de la potencia de Albert. Teclea <b>control+espacio</b> y escribe la palabra <yt> seguido del patrón de busqueda que quieres hacer en youtube. Por ejemplo, si queremos buscar un vídeo en youtube de como usar el programa <b>openshot</b> en Vitalinux escribiremos en el Albert <b>yt vitalinux openshot</b>, lo cual abrirá tu navegador web favorito con la búsqueda indicada en youtube. Selecciona el vídeo en concreto que quieres descargar y copia la URL del navegador. Después copia esta en <b>4k Video Downloader</b> y verás que podrás descargar el vídeo o su audio en diferentes calidades.
+</li>
+
+<br><div class="container">
+<img class="coolimage" src="../img/parte6/gifs/vx-4kvideodownloader.gif" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Cómo descargar vídeos de youtube con 4k Video Downloader</tt></div>
+</div><br>
+
 <li>
 <b>Acciones del Explorador de Archivos</b>: <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span></b> hace uso del Explorador de Archivos <b>Pcmanfm</b> en Vitalinux 2, y <b>Nemo</b> en Vitalinux 3, los cuales se caracterizan por ser muy ligeros, pero al mismo tiempo, muy potentes. Mediante el uso de las <b>Acciones</b> vamos a poder realizar tareas simples desde el propio <b>Explorador de Archivos</b> sin necesidad de depender de una aplicación externa:   Con la finalidad de apreciar la gran versatilidad y funcionalidad del explorador de archivos a continuación se propone comprobar las siguientes <b>acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>).
 </li>
@@ -19,7 +46,7 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 
 <br>
 <div class='container'>
-<img class='coolimage' src='../img/vitalinux-curso_aularagon-utilidades_pdf.png' alt='Imagen no Localizada'>
+<img class='coolimage' src='../img/parte6/vx-6.1-actions_explorador_pdf_v2.png' alt='Imagen no Localizada'>
 <div class='imagetext_type2'><i>Img:</i> <tt>Acciones del Explorador de Archivos sobre documentos PDF</tt></div>
 </div>
 <br>
@@ -33,13 +60,17 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 
 <li><b>Extraer Grupo de Páginas de un PDF</b>.  Desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre algún <b>documento PDF</b>, y selecciona dentro de <b>"Utilidades PDFs"</b> la opción <b>"Extraer Grupo Páginas ..."</b>.  Comprueba que se crea un archivo resultante junto al documento original seleccionado con el mismo nombre pero con un sufijo que indica las páginas extraídas.</li>
 
+<li>
+Como alternativa a las acciones anteriores del Explorador de Archivos puedes hacer uso de la aplicación <b>pdfarranger</b>. Busca e instala la aplicación <b>pdfarranger</b> en tu <b>Vitalinux Play</b> y comprueba que nos permite hacer cosas similares a las anteriores: eliminar páginas del PDF, alterar el orden de las páginas, etc.
+</li>
+
 </ul>
 
 <li><b>Utilidades de Imágenes</b>: Desde el Explorador de Archivos podrás llevar a cabo ciertas acciones sobre tus imágenes, tales como generar una imagen en miniatura, comprimir la imagen (<i>*.jpg/*.png</i>), cambiar el formato de la imagen (<i>jpg->png, jpg->bmp, png->pdf...</i>), etc. Prueba alguna de ellas:
 
 <br>
 <div class='container'>
-<img class='coolimage' src='../img/vitalinux-curso_aularagon-utilidades_imagenes.png' alt='Imagen no Localizada'>
+<img class='coolimage' src='../img/parte6/vx-6.1-actions_explorador_png.png' alt='Imagen no Localizada'>
 <div class='imagetext_type2'><i>Img:</i> <tt>Acciones del Explorador de Archivos sobre imágenes</tt></div>
 </div>
 <br>
@@ -59,46 +90,31 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 <li><b>Comprimir MP3</b>.  Almacena <b>archivos MP3</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> selecciona varios de ellos (<i>pincha con el botón izquierdo del ratón sobre ellos manteniendo la tecla CONTROL pulsada</i>), y estando seleccionados, pincha con el botón derecho del ratón sobre ellos y selecciona dentro de <b>"Utilidades Música"</b> la opción <b>"Comprimir MP3"</b>.  Comprueba que se crea una subcarpeta con los archivos comprimidos (<i>p.e. 64Kbps</i>), y advierte que se ha reducido su tamaño, pero que al mismo tiempo se escuchan bien.
  </li>
 
-<li><b>Reproducir Vídeo en Miniatura</b>.  Almacena un <b>archivo de vídeo</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre él, y selecciona dentro de <b>"Utilidades Vídeos"</b> la opción <b>"Reproducir Vídeo en Miniatura"</b>.  Comprueba que el vídeo se reproduce en una de las esquinas de tu Entorno de Escritorio pudiendo trabajar simultáneamente con el equipo con otras aplicaciones.  Por ejemplo, abre <b>Libreoffice Writer</b> y redacta algo mientras se visualiza el vídeo en miniatura.  Para cerrar el vídeo debes pinchar sobre él con el ratón y pulsar la tecla <b>q</b> (<i>quit</i>).
 
+<li><b>Utilidades de Videos</b>: Desde el Explorador de Archivos podrás llevar a cabo ciertas acciones sobre tus videos, tales como comprimirlos, reproducir en miniatura o extraer su audio. Prueba alguna de ellas:
 
-<br><br><div class="container">
-<img class="coolimage" src="../img/aplicaciones-reproducir-video-en-miniatura.png" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Reproducir Vídeo en miniatura</tt></div>
-</div><br>
+<br>
+<div class='container'>
+<img class='coolimage' src='../img/parte6/vx-6.1-actions_explorador_videos.png' alt='Imagen no Localizada'>
+<div class='imagetext_type2'><i>Img:</i> <tt>Acciones del Explorador de Archivos sobre videos</tt></div>
+</div>
+<br>
+
 </li>
+
+<ul>
+    <li><b>Reproducir Vídeo en Miniatura</b>.  Haciendo uso de la aplicación anteriormente comentada, <b>4k Video Downloader</b>, almacena un <b>archivo de vídeo</b> en algún directorio de tú perfil de usuario, y desde el <b>Explorador de Archivos</b> pincha con el botón derecho del ratón sobre él, y selecciona la opción <b>"Reproducir Vídeo en Miniatura"</b>.  Comprueba que el vídeo se reproduce en una de las esquinas de tu Entorno de Escritorio pudiendo trabajar simultáneamente con el equipo con otras aplicaciones.  Por ejemplo, abre <b>Libreoffice Writer</b> y redacta algo mientras se visualiza el vídeo en miniatura.  Para cerrar el vídeo debes pinchar sobre él con el ratón y pulsar la tecla <b>q</b> (<i>quit</i>).
+    </li>
+    <li><b>Comprimir Vídeo</b>.  Esta acción del explorador de archivos te permitirá comprimir vídeos, pero ten en cuenta que si el vídeo ya esta comprimido, por ejemplo por propio youtube, es posible que la compresión no sea efectiva.
+    </li>
+    <li><b>Extraer audio del vídeo</b>.  Esta acción del explorador de archivos te permitirá extraer el audio del vídeo que selecciones.
+    </li>
+</ul>
 
 </ul>
 
 <li>
-<b>Crear GIF animado</b>. Abre <b>Vitalinux Play</b> e instala la aplicación <b>Peek</b>. Esta aplicación nos permite crear un gif animado del área del entorno de Escritorio que encuadremos, resultando útil para explicar a nuestro alumnado determinados procedimientos informáticos. Para probarlo, una vez instalado, abre <b>Peek</b> tecleando <i>Control + Espacio</i> y escribiendo <i>Peek</i>. Verás que se abrirá un marco de encuadre que ajustarás al área que quieres grabar. A modo de ejemplo, graba y genera un GIF animado mostrando como poner en negrita o cursiva un texto en la herramienta ofimática Libreoffice Writer, aunque puedes hacerlo que cualquier otro procedimiento. El GIF animado resultante lo deberás adjuntar a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
-</li>
-
-<li>
-<b>Gestión del historial del portapapeles</b>. Un aspecto que puede resultar muy útil y hacer más eficiente en su uso al equipo y la gestión adecuada del historial del portapapeles. El portapapeles es el lugar de nuestro equipo donde se van almacenando todas las cosas que vamos copiando. En ocasiones nos puede interesar recuperar del portapapeles elementos que copiamos con anterioridad para usarlos en documentos que estamos editando y no sabemos como hacerlo. Aunque hay diferentes formas de hacerlo, aquí haremos uso de nuestro lanzador de aplicaciones <b>Albert</b>, nuestro querido <b>Control + Espacio</b>. En el siguiente GIF animado hecho con Peek se muestra como configurar Albert para hacer uso del portapapeles o clipboard, para posteriormente copiar varios trozos de textos (<i>atajo de teclado <b>control+c</b></i>) y pegarlos en un documento que estamos editando (<i>atajo de teclado <b>control+v</b></i>). Haz tu lo mismo y comprueba su utilidad. Genera tu propio GIF animado explicando como hacer uso de esta utilidad y agrégalo a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
-
-<div style="text-align: center;">
-<img src="../img/parte6/vx-albert-clipboard.gif" style="width: 400px">
-</div>
-</li>
-<li>
-</li>
-
-<li>
-<b>Cifrar ficheros</b>. Comprueba que si pinchas con el botón derecho del ratón sobre un archivo mostrado por el <b>Explorador de Archivos</b> se te ofrecerá la posibilidad de <b>"Cifrar Archivo"</b>. Este cifrado generará un nuevo archivo cifrado (<i>*.aes</i>) a partir del original basado en un clave que se te solicitará (<i>deberás introducir la clave dos veces como confirmación</i>). Esa misma clave será la que tendrá que introducir el usuario destinatario para poderlo descifrar.  Para comprobar su funcionamiento, escoge un archivo PDF, imagen o documento ofímatico que tengas a mano y cífralo introduciendola la clave que tu desees. Después cópialo a otro directorio diferente y comprueba que al pinchar con el botón derecho del ratón sobre el archivo cifrado (<i>*.aes</i>) el <b>Explorador de Archivos</b> te ofrecerá la opción de <b>"Descifrar Fichero"</b>.
-</li>
-
-<li>
-<b>Descargar vídeos de youtube</b>. Para la siguiente utilidad será necesario instalar el programa <b>4k Video Downloader</b> haciendo uso de <b>Vitalinux Play</b> o <b>synaptic</b>. Una vez instalado, lanza el programa tecleando <b>control+espacio</b> y escribiendo <b>4k Video Downloader</b> (<i>Si el programa te indica que debes descargar una actualización no lo hagas, de ello nos encargamos los técnicos de Vitalinux a través de Migasfree</i>). A continuación buscaremos un video en youtube a descargar, para lo cual haremos uso de la potencia de Albert. Teclea <b>control+espacio</b> y escribe la palabra <yt> seguido del patrón de busqueda que quieres hacer en youtube. Por ejemplo, si queremos buscar un vídeo en youtube de como usar el programa <b>openshot</b> en Vitalinux escribiremos en el Albert <b>yt vitalinux openshot</b>, lo cual abrirá tu navegador web favorito con la búsqueda indicada en youtube. Selecciona el vídeo en concreto que quieres descargar y copia la URL del navegador. Después copia esta en <b>4k Video Downloader</b> y verás que podrás descargar el vídeo o su audio en diferentes calidades.
-</li>
-
-<br><div class="container">
-<img class="coolimage" src="../img/parte6/gifs/vx-4kvideodownloader.gif" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Cómo descargar vídeos de youtube con 4k Video Downloader</tt></div>
-</div><br>
-
-<li>
-En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
+<b>aplicaciones Flash/SWF</b>: En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
 <ol>
 <li>
 Descarga el siguiente archivo comprimido en Vitalinux, <a href="https://migasfree.educa.aragon.es/cosas-centros/curso-aularagon/juegos-flash-swf.zip">Juegos Flash</a>, descomprímelo y prueba a ejecutar mediante un doble click alguno de los archivos Flash que contiene [<i>Una vez descargado el archivo ZIP lo podrás descomprimir, y extraer el archivo ejecutable .swf, pinchando con el botón derecho del ratón sobre el fichero ZIP y seleccionado la opción de descomprimir</li>].
