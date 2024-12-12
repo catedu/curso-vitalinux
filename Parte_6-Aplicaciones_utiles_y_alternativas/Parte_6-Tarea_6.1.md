@@ -10,7 +10,11 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 <ol>
 
 <li>
-<b>Crear GIF animado</b>. Abre <b>Vitalinux Play</b> e instala la aplicación <b>Peek</b>. Esta aplicación nos permite crear un gif animado del área del entorno de Escritorio que encuadremos, resultando útil para explicar a nuestro alumnado determinados procedimientos informáticos. Para probarlo, una vez instalado, abre <b>Peek</b> tecleando <i>Control + Espacio</i> y escribiendo <i>Peek</i>. Verás que se abrirá un marco de encuadre que ajustarás al área que quieres grabar. A modo de ejemplo, graba y genera un GIF animado mostrando como poner en negrita o cursiva un texto en la herramienta ofimática Libreoffice Writer, aunque puedes hacerlo que cualquier otro procedimiento. El GIF animado resultante lo deberás adjuntar a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+<b>Crear GIF animado</b>. Abre <b>Vitalinux Play</b> e instala la aplicación <b>Peek</b>. Esta aplicación nos permite crear un gif animado del área del entorno de Escritorio que encuadremos, resultando útil para explicar a nuestro alumnado determinados procedimientos informáticos. Para probarlo, una vez instalado, abre <b>Peek</b> tecleando <i>Control + Espacio</i> y escribiendo <i>Peek</i>. Verás que se abrirá un marco de encuadre que ajustarás al área que quieres grabar. A modo de ejemplo, graba y genera un GIF animado mostrando como poner en negrita o cursiva un texto en la herramienta ofimática Libreoffice Writer (<i>el GIF animado adjunto muestra todo el proceso</i>), aunque puedes hacerlo de cualquier otro procedimiento. El GIF animado resultante lo deberás adjuntar a la tarea (<i>genera un ZIP con todos los elementos a entregar</i>).
+<br><br><div class="container">
+<img class="coolimage" src="../img/parte6/vx-peek-uso.gif" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Cómo usar Peek para crear un GIF animado de un procedimiento informático</tt></div>
+</div><br>
 </li>
 
 <li>
