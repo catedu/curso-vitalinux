@@ -120,14 +120,15 @@ Como alternativa a las acciones anteriores del Explorador de Archivos puedes hac
 </ul>
 
 <li>
-<b>aplicaciones Flash/SWF</b>: En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
+<b>Aplicaciones Flash/SWF</b>: En este apartado nos gustaría destacar que <b>desde Vitalinux seguimos dando soporte a aplicaciones Flash/SWF</b>.  Es decir, a finales del año 2020 las principales compañías de software (<i>Microsoft, Google, Firefox, etc.</i>) decretaron el fin del soporte/reproducción de sitios Webs con contenidos Flash por posibles problemas de seguridad, debiendo rehacerse éstas en formato HTML5 por parte de los creadores.  Tras advertir que muchos centros educativos de infantil y primaria eran dependientes de este tipo de formatos Flash/SWF, desde Vitalinux se hizo un esfuerzo para seguir reproduciéndolos.  Para comprobarlo, te sugerimos lo siguiente:
 <ol>
-<li>
-Descarga el siguiente archivo comprimido en Vitalinux, <a href="https://migasfree.educa.aragon.es/cosas-centros/curso-aularagon/juegos-flash-swf.zip">Juegos Flash</a>, descomprímelo y prueba a ejecutar mediante un doble click alguno de los archivos Flash que contiene [<i>Una vez descargado el archivo ZIP lo podrás descomprimir, y extraer el archivo ejecutable .swf, pinchando con el botón derecho del ratón sobre el fichero ZIP y seleccionado la opción de descomprimir</li>].
-</li>
-<li>
-Teclea <b>CONTROL + ESPACIO</b> y escribe <b>Abrir Web o Fichero con contenidos Flash</b>.  En el asistente que te aparecerá selecciona la opción <b>URL sitio Web con Flash</b>, y escribe como URL alguna página tradicional de recursos educativos que siga teniendo sus contenidos en Flash (<i>p.e. http://www.ceiploreto.es, es una web por defecto</i>).
-</li>
+    <li>
+    Descarga el siguiente archivo comprimido en Vitalinux, <a href="https://migasfree.educa.aragon.es/cosas-centros/curso-aularagon/juegos-flash-swf.zip">Juegos Flash</a>, descomprímelo y prueba a ejecutar mediante un doble click alguno de los archivos Flash que contiene.
+    <br><i>Nota:Una vez descargado el archivo ZIP lo podrás descomprimir pinchando con el botón derecho del ratón sobre el fichero ZIP y seleccionado la opción de descomprimir. Así obtendrás los archivos SWF que podrás abrir haciendo doble click sobre ellos.</i>
+    </li>
+    <li>
+    Teclea <b>CONTROL + ESPACIO</b> y escribe <b>Abrir Web o Fichero con contenidos Flash</b>.  En el asistente que te aparecerá selecciona la opción <b>URL sitio Web con Flash</b>, y escribe como URL alguna página tradicional de recursos educativos que siga teniendo sus contenidos en Flash (<i>p.e. http://www.ceiploreto.es, es una web por defecto</i>).
+    </li>
 </ol>
 </li>
 
