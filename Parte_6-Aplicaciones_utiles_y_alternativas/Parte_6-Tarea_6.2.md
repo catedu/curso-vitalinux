@@ -84,11 +84,11 @@ Compatibilidad en <b>LibreOffice Impress</b> con documentos que han sido previam
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">¡¡¡Recuerda que "LibreOffice" es "Software Libre"  disponible tanto para Linux como para Windows!!!¡¡¡Anímate a instalar y usar "LibreOffice" si quieres evitar el uso de software ilegal/pirata tanto en tu casa como en tu centro educativo!!!</pre></center>
 -->
 <br>
-La característica más importante de <b>LibreOffice</b> es que es <b>Software Libre</b>.  Ésto permite su instalación, uso y distribución de manera libre y colaborativa. A consecuencia de todo ello surgen otras características interesantes como la posibilidad de instalar <a href="http://extensions.libreoffice.org/extension-center">Extensiones creadas por la comunidad de usuarios</a>. A modo de ejemplo, como tarea se propone instalar al menos una <b>Extensión de LibreOffice</b>:
+La característica más importante de <b>LibreOffice</b> es que es <b>Software Libre</b>.  Ésto permite su instalación, uso y distribución de manera libre y colaborativa. A consecuencia de todo ello surgen otras características interesantes como la posibilidad de instalar <a href="https://extensions.libreoffice.org/en/" target="_blank" rel="noopener noreferrer">Extensiones creadas por la comunidad de usuarios</a>. A modo de ejemplo, como tarea se propone instalar al menos una <b>Extensión de LibreOffice</b>:
 
 <ol>
 <li>
-Abre un navegador Web y accede a la Web de <b>Extensiones Oficiales de LibreOffice</b>: <a rel="nofollow" class="external text" href="http://extensions.libreoffice.org"><b>Centro de descargas de Extensiones de LibreOffice</b></a>
+Abre un navegador Web y accede a la Web de <b>Extensiones Oficiales de LibreOffice</b>: <a class="external text" href="https://extensions.libreoffice.org/en/" target="_blank" rel="noopener noreferrer"><b>Centro de descargas de Extensiones de LibreOffice</b></a>
 </li>
 <li>
 Busca la extensión llamada <b>"MultiFormatSave"</b>, descárgala (<i>extensión \*.oxt</i>) e instálala (<i>pincha con el botón derecho del ratón sobre el archivo *.oxt descargado e indica que quieres abrirlo con <b>LibreOffice</b></i>).  Esta extensión permitirá a la hora de guardar un documento ofimático, guardarlo simultáneamente en los formatos de <b>LibreOffice</b> (<i>p.e. *.odt</i>), de Microsoft Office (<i>p.e. "*.doc"/"*.docx"</i>) y PDF (<i>*.pdf</i>)
