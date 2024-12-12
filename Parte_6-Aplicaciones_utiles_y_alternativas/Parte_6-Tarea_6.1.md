@@ -137,11 +137,6 @@ Teclea <b>CONTROL + ESPACIO</b> y escribe <b>Abrir Web o Fichero con contenidos 
 </ol>
 
 
-<br><div style='text-align: center;'>
-<iframe width='560' height='315' src='https://www.youtube.com/embed/Yf-idxDBD7w' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>
-</div>
-
-
 {% endnotificacion_task %}
 
 
