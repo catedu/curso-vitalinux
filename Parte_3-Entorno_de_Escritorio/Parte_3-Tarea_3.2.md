@@ -24,11 +24,19 @@ Como tarea te proponemos repasar algunas de las formas descritas para <b>lanzar 
 <span style='font-size: 75%;font-weight:bold;font-style:italic'; font-size: 120%;>Nota sobre las capturas a presentar: No es necesario que presentes las capturas de cómo lanzas las aplicaciones usando los diferentes métodos propuestos...de hecho en algún caso será incompatible que lances la aplicación y a la vez tomes la captura de la pantalla</span>
 <ol>
 <li>
-Inicia sesión gráfica en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, espera a que finalice la comunicación con <b>Migasfree</b> (<i>el icono de Migasfree que hay en la parte derecha del panel del entorno de escritorio se pondrá en color grisaceo</i>), y anota aproximadamente el porcentaje de memoria RAM y CPU consumidas por el sistema operativo en reposo (<i>sin abrir o lanzar ninguna aplicación</i>) gracias a la información proporcionada por el Widget del Escritorio (<i>ver figura adjunta</i>).
+Inicia sesión gráfica en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, espera a que finalice la comunicación con <b>Migasfree</b> (<i>el icono de Migasfree que hay en la parte derecha del panel del entorno de escritorio se pondrá en color grisaceo</i>), y anota aproximadamente el porcentaje de memoria RAM y CPU consumidas por el sistema operativo en reposo (<i>sin abrir o lanzar ninguna aplicación</i>) gracias a la información proporcionada por el Widget del Escritorio (<i>ver figura adjunta</i>). Si deseas tener información precisa de la cantidad de CPU y RAM que están consumiendo tu equipo puedes hacer uso de la aplicación <b>CPU-X</b> (<i>control+espacio y escribes <b>cpu-x</b></i>), tal como se muestra también en la imagen adjunta.
 <i>Nota: Para poder acceder al Escritorio y visualizar el Widget de forma rápida, en lugar de ir minimizando una a una las diferentes ventanas que tengas abiertas puedes hacer uso del atajo de teclado <b>Super+D</b>, conde la tecla <b>Super</b> se corresponde con la tecla que tiene el logo de Windows situada a la izquierda de la barra espaciadora. Pulsando repetidas veces ese atajo podrás comprobar como se minimizan o restauran simultáneamente todas las ventanas abiertas.</i>
-<div style="text-align: center;">
-<img src="../img/parte3/vx-3.2-widget_escritorio-info_CPU_RAM.png" style="width: 400px">
-</div>
+
+<br><br><div class="container">
+<img class="coolimage" src="../img/parte3/vx-3.2-widget_escritorio-info_CPU_RAM.png" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>El Widget del Escritorio nos informa del consumo de los recursos CPU y RAM</tt></div>
+</div><br>
+
+<br><br><div class="container">
+<img class="coolimage" src="../img/parte3/vx-3.2-cpu-x-ram_cpu.png" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>CPU-X nos proporciona información detallada de todos los recursos del sistema</tt></div>
+</div><br>
+
 </li>
 <li>
 Despliega el <b>Menú de Inicio Clásico</b> (<i>al estilo de Windows XP y Windows 7</i>), bien pinchando con el botón izquierdo del ratón o pulsando la tecla Super (<i>la tecla con el logo de Windows que hay a la izquierda de la barra espaciadora). Busca en en el submenú o categoría de aplicaciones <b>Sonido y Vídeo</b> la aplicación <b>Openshot</b> y abrela.  Esta aplicación te permite crear un vídeo a partir de imágenes, vídeos y música.  Advierte que todas las aplicaciones estan categorizadas en función de su utilidad (<i>Educación, Gráficos, Internet, Oficina, etc.</i>).  Minimiza la aplicación y observa el Widget del Escritorio para conocer en que porcentaje ha aumentado la memoria RAM y la CPU del sistema para saber cuanto consume dicha aplicación (<i>la finalidad es ver como afecta a los recursos del sistema el lanzar una aplicación, puede ser openshot o la que tu prefieras</i>). 
