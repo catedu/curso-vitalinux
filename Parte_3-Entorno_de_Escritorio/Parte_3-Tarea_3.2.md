@@ -30,7 +30,7 @@ Inicia sesión gráfica en <span style='color: darkblue; font-weight: 600'; font
 <br><br><div class="container">
 <img class="coolimage" src="../img/parte3/vx-3.2-widget_escritorio-info_CPU_RAM.png" alt="Imagen no Localizada">
 <div class="imagetext_type2"><i>Img:</i> <tt>El Widget del Escritorio nos informa del consumo de los recursos CPU y RAM</tt></div>
-</div><br>
+</div>
 
 <br><br><div class="container">
 <img class="coolimage" src="../img/parte3/vx-3.2-cpu-x-ram_cpu.png" alt="Imagen no Localizada">
@@ -49,9 +49,12 @@ Otra forma muy eficiente de lanzar una aplicación es a través de un atajo de t
 </li>
 <li>
 En ocasiones, al igual que en Windows, puede quedarse colgada alguna aplicación sin poder cerrarla.  En esos casos convendría <b>Matar</b> la aplicación como se sugiere a continuación.  Suponiendo que todavía mantienes abiertas las aplicaciones anteriores teclea <b>CONTROL+ESPACIO</b> y escribe <b>detener o matar programa</b>.  Al confirmar con la tecla <b>Intro</b> podrás advertir que el puntero del ratón cambia de forma y que al pinchar sobre cualquier aplicación abierta provoca su cierre (<i>¡¡Cuidado por que si pinchas sobre el Escritorio también cerrarás/matarás a éste!!</i>).
-<div style="text-align: center;">
-<img src="../img/vx-matar-programa.png">
-</div>
+
+<br><br><div class="container">
+<img class="coolimage" src="../img/parte3/vx-3.2-detener_matar_programa_vx3.png" alt="Imagen no Localizada">
+<div class="imagetext_type2"><i>Img:</i> <tt>Podemos matar cualquier programa que se resista a cerrarse</tt></div>
+</div><br>
+
 </li>
 <li>
 Haz una breve reflexión, si lo consideras necesario, sobre la tarea realizada. Es importante advertir que hay aplicaciones que consumen prácticamente la misma cantidad de recursos que el propio sistema operativo (<i>los navegadores Web modernos Firefox o Chrome son un ejemplo de ello</i>).  Este es un aspecto sumamente importante ya que <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> es un <b>sistema operativo ligero</b> con la finalidad de poder reutilizar equipos antiguos, pero de poco sirve que el sistema operativo lo sea si las aplicaciones que lanzamos sobre él no lo son, el equipo se acabará saturando al poner al límite sus recursos (<i>memoria RAM o CPU</i>). Es decir, en equipos con pocos recursos además de hacer uso de un sistema operativo ligero también deberíamos hacer uso de aplicaciones que lo fueran (<i>existen alternativas ligeras a toda aplicación.  Por ejemplo, Midori es un navegador Web que sería una alternativa ligera a Firefox o Chrome</i>).
