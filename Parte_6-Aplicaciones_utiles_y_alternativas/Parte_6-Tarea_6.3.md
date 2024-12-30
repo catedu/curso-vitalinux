@@ -1,4 +1,4 @@
-{% notificacion_task title='Servicios de Congelación y Navegación en Modo Incógnito',
+{% notificacion_task title='Servicios de Congelación, bloqueo de URLs y Navegación en Modo Incógnito',
 numexer='6.3',
 req='Es necesario haber leído todo lo referente a <a href="../Parte_6-Aplicaciones_utiles_y_alternativas/Parte_6-Recursos_centros_educativos.md">Recursos para Centros Educativos</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a lo largo de la tarea. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Por tanto, envía al tutor un único archivo <b>.pdf</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.pdf</b>.
@@ -56,10 +56,38 @@ La congelación se basa en la comparación con un directorio patrón, de tal for
 </li>
 </ol>
 
-<b>Nota</b>: Si quisieŕamos que éste efecto "limpieza" (congelación) se produzca cada vez que reiniciemos el equipo de forma automática, deberemos aplicar la Etiqueta migasfree <b>"SRV-CONGELARESCRITORIO"</b> y solucionado. En muchos centros educativos dicho comportamiento viene por defecto sin necesidad de etiqueta porque así lo han decidido.
+<b>Nota</b>: Si quisieŕamos que éste efecto "limpieza" (congelación) se produzca cada vez que reiniciemos el equipo de forma automática, deberemos aplicar la Etiqueta migasfree <b>"SRV-CONGELADORTOTAL"</b> y solucionado. En muchos centros educativos dicho comportamiento viene por defecto sin necesidad de etiqueta porque así lo han decidido.
 
     
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">¡Recuerda que la "Congelación al estilo Vitalinux" sólo afecta a los datos del usuario, nunca a los programas o aplicaciones que haya instaladas! - Podemos instalar/desinstalar/actualizar los programas y aplicaciones en Vitalinux independientemente de que esté congelado el equipo</pre></center>
+
+<li>    
+<b>Servicio de Bloqueo de URLs</b>: Etiqueta migasfree <b>"SRV-BLOQUEAR_URLS"</b>. Este servicio nos permitirá tener un control de los sitios Web que pueden ser navegables en función de su temática: pornografía, fakenews, redes sociales o gambling.
+</li>
+    <ol>
+    <li>
+    Añade la etiqueta Migasfree <b>"SRV-BLOQUEAR_URLS"</b> y comprueba, una vez el equipo que está actualizado contra Migasfree, que no se puede navegar en ninguna Web de pornografía, fakenews, redes sociales o gambling. Prueba a acceder a Webs como Facebook, Instagram o Pornohub, y comprueba que no es posible. Los listados de las Webs afectadas por este bloqueo se publican <a href="https://github.com/StevenBlack/hosts" target="_blank">aquí</a>.
+    </li>
+    <li>
+    A continuación veremos como configurar la herramienta de bloqueo de URLs para que sólamente bloquee la temática que nos interese. Teclea <b>control+espacio</b> y escribe <b>Bloquear URLs de Webs</b>. Tras autenticarte con una cuenta de perfil administrador, te aparecerá una ventana donde te dará a elegir entre 8 posibles opciones, en función de la temática de las Web a bloquear (<i>la opción por defecto es la 8</i>):</br>
+    0) Sin Filtrado. Se permite el acceso a cualquier tipo de Web
+    1) Feaknews</br>
+    2) Porno</br>
+    3) Social (redes sociales)</br>
+    4) Gambling (juegos online)</br>
+    5) Fakenews, Gambling, Porno</br>
+    6) Fakenews, Porno, Social</br>
+    7) Gambling, Porno, Social</br>
+    8) Todo => Feaknews, Gambling, Porno y Social (opción por defecto)</br>
+    Comprueba, a modo de ejemplo, que al elegir la <b>opción 5</b> ya puedes navegar en Webs de redes sociales (p.e. Facebook), pero siguen bloqueadas el resto de temáticas.
+    </li>
+    <br><div class="container">
+<img class="coolimage" src="../img/parte6/vx-6.3-bloquear_urls.png">
+<div class="imagetext_type2"><i>Img:</i> <tt>Opciones de Bloqueo de URLs por diferentes temáticas</tt></div>
+</div><br>
+    </ol>
+
+<center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">Cuando los centros educativos solicitan este servicio de bloqueo de URLs, para los equipos de su centro, nos indican su opción preferida y se lo configuramos en los equipos que ellos decidan de forma automatizada. Algunos centros elaboran su propio listado de URLs personalizado para añadirlo a las URLs que ya vienen bloqueadas por defecto.</pre></center>
 
 <li>    
 <b>Navegación Web en Modo Incógnito o Privado</b>: Etiqueta migasfree <b>"SRV-NAVEGADORINCOGNITO"</b>
