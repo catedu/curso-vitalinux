@@ -3,7 +3,7 @@ numexer='6.1',
 req='Es necesario haber leído todo lo referente utilidades y <a href="./Parte_6-Acciones_del_explorador_de_archivos.md">Acciones del Explorador de Archivos de Vitalinux</a>',
 formatoentrega='En un documento ofimático escribe y pega las fotos o capturas de pantalla necesarias para justificar todo lo que se te pide a continuación. Si es posible expórtalo a <b>formato PDF</b> para garantizar su portabilidad, y adjúntalo como respuesta a la tarea solicitada. Haz lo mismo con los GIF animados que hayas generado (puedes crear un archivo ZIP compriendo el conjunto de elementos a entregar). Por tanto, envía al tutor un único archivo <b>.zip</b> que se nombrará siguiendo las siguientes pautas: <b>apellido1_apellido2_nombre_TareaX.zip</b>.
 <br>
-Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.1.pdf</b>' %}
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por ejemplo la alumna <b>Begoña Sánchez Mañas</b>, debería nombrar esta tarea como: <b>sanchez_manas_begona_Tarea6.1.zip</b>' %}
 
 Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que están disponibles o pueden instalarse en Vitalinux y que seguramente te resultarán muy útiles en tu día a día: utilidades, acciones del explorador de archivos, etc.
 
