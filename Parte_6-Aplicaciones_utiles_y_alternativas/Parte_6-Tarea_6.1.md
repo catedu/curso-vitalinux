@@ -33,16 +33,7 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 </li>
 
 <li>
-<b>Descargar vídeos de youtube</b>. Para la siguiente utilidad será necesario instalar el programa <b>4k Video Downloader</b> haciendo uso de <b>Vitalinux Play</b> o <b>synaptic</b>. Una vez instalado, lanza el programa tecleando <b>control+espacio</b> y escribiendo <b>4k Video Downloader</b> (<i>Si el programa te indica que debes descargar una actualización no lo hagas, de ello nos encargamos los técnicos de Vitalinux a través de Migasfree</i>). A continuación buscaremos un video en youtube a descargar, para lo cual haremos uso de la potencia de Albert. Teclea <b>control+espacio</b> y escribe la palabra <yt> seguido del patrón de busqueda que quieres hacer en youtube. Por ejemplo, si queremos buscar un vídeo en youtube de como usar el programa <b>openshot</b> en Vitalinux escribiremos en el Albert <b>yt vitalinux openshot</b>, lo cual abrirá tu navegador web favorito con la búsqueda indicada en youtube. Selecciona el vídeo en concreto que quieres descargar y copia la URL del navegador. Después copia esta en <b>4k Video Downloader</b> y verás que podrás descargar el vídeo o su audio en diferentes calidades.
-</li>
-
-<br><div class="container">
-<img class="coolimage" src="../img/parte6/gifs/vx-4kvideodownloader.gif" alt="Imagen no Localizada">
-<div class="imagetext_type2"><i>Img:</i> <tt>Cómo descargar vídeos de youtube con 4k Video Downloader</tt></div>
-</div><br>
-
-<li>
-<b>Acciones del Explorador de Archivos</b>: <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span></b> hace uso del Explorador de Archivos <b>Pcmanfm</b> en Vitalinux 2, y <b>Nemo</b> en Vitalinux 3, los cuales se caracterizan por ser muy ligeros, pero al mismo tiempo, muy potentes. Mediante el uso de las <b>Acciones</b> vamos a poder realizar tareas simples desde el propio <b>Explorador de Archivos</b> sin necesidad de depender de una aplicación externa:   Con la finalidad de apreciar la gran versatilidad y funcionalidad del explorador de archivos a continuación se propone comprobar las siguientes <b>acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>).
+<b>Acciones del Explorador de Archivos</b>: <b><span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span></b> hace uso del Explorador de Archivos <b>Pcmanfm</b> en Vitalinux 2, y <b>Nemo</b> en Vitalinux 3, los cuales se caracterizan por ser muy ligeros, pero al mismo tiempo, muy potentes. Mediante el uso de las <b>Acciones</b> vamos a poder realizar tareas simples desde el propio <b>Explorador de Archivos</b> sin necesidad de depender de una aplicación externa: Con la finalidad de apreciar la gran versatilidad y funcionalidad del explorador de archivos a continuación se solicita <b>comprobar y realizar algunas de las siguientes acciones</b> (<i>en el vídeo que se adjunta, se explican y completan cada una de ellas en el mismo orden que se solicitan</i>). Puedes realizar todas las que consideres mas útiles o interesantes para tu día a día.
 </li>
 <ul>
 <li>Abre el <b>Explorador de Archivos</b> (<i>Tecla Windows + E</i>)</li>
@@ -56,7 +47,6 @@ Mediante la siguiente tarea nos familiarizaremos con algunas aplicaciones que es
 <div class='imagetext_type2'><i>Img:</i> <tt>Acciones del Explorador de Archivos sobre documentos PDF</tt></div>
 </div>
 <br>
-
 
 <ul>
 
@@ -93,7 +83,7 @@ Como alternativa a las acciones anteriores del Explorador de Archivos puedes hac
 
 </ul>
 
-<li><b>Comprimir MP3</b>.  Almacena <b>archivos MP3</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> selecciona varios de ellos (<i>pincha con el botón izquierdo del ratón sobre ellos manteniendo la tecla CONTROL pulsada</i>), y estando seleccionados, pincha con el botón derecho del ratón sobre ellos y selecciona dentro de <b>"Utilidades Música"</b> la opción <b>"Comprimir MP3"</b>.  Comprueba que se crea una subcarpeta con los archivos comprimidos (<i>p.e. 64Kbps</i>), y advierte que se ha reducido su tamaño, pero que al mismo tiempo se escuchan bien.
+<li><b>Sonido: Comprimir MP3</b>.  Almacena <b>archivos MP3</b> en algún directorio de tú perfil en <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, y desde el <b>Explorador de Archivos</b> selecciona varios de ellos (<i>pincha con el botón izquierdo del ratón sobre ellos manteniendo la tecla CONTROL pulsada</i>), y estando seleccionados, pincha con el botón derecho del ratón sobre ellos y selecciona dentro de <b>"Utilidades Música"</b> la opción <b>"Comprimir MP3"</b>.  Comprueba que se crea una subcarpeta con los archivos comprimidos (<i>p.e. 64Kbps</i>), y advierte que se ha reducido su tamaño, pero que al mismo tiempo se escuchan bien.
  </li>
 
 
@@ -139,6 +129,3 @@ Como alternativa a las acciones anteriores del Explorador de Archivos puedes hac
 
 
 {% endnotificacion_task %}
-
-
-
