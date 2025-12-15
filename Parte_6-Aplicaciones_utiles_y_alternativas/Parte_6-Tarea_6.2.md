@@ -94,17 +94,17 @@ Abre un navegador Web y accede a la Web de <b>Extensiones Oficiales de LibreOffi
 Busca la extensión llamada <b>"MultiFormatSave"</b>, descárgala (<i>extensión \*.oxt</i>) e instálala (<i>pincha con el botón derecho del ratón sobre el archivo *.oxt descargado e indica que quieres abrirlo con <b>LibreOffice</b></i>).  Esta extensión permitirá a la hora de guardar un documento ofimático, guardarlo simultáneamente en los formatos de <b>LibreOffice</b> (<i>p.e. *.odt</i>), de Microsoft Office (<i>p.e. "*.doc"/"*.docx"</i>) y PDF (<i>*.pdf</i>)
 </li>
 <li>
-A continuación abre por ejemplo <b>LibreOffice Writer</b>, escribe algo y comprueba que en el menú <b>"Archivo"</b> aparece una nueva opción llamada <b>"Multi Save"/"Multi Save As"</b>
-</li>
-<li>
-Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el resultado dentro de <b>Documentos</b> (<i>o donde tú creas conveniente</i>), eligiendo como nombre para el archivo tu nombre y apellidos (<i>p.e. Arturo_Martin_Romero</i>).  <b>¡¡¡Guárdalo en todos los formatos disponibles!!!</b>
+A continuación abre por ejemplo <b>LibreOffice Writer</b>, escribe algo y comprueba que en el menú <b>"Archivo"</b> aparece una nueva opción llamada <b>"Multi Save"/"Multi Save As"</b> (<i>echa un ojo al GIF animádo siguiente para visualizar como se instala y accede a esta funcionalidad</i>)
 </li>
 
 <br><div class="container">
-<img class="coolimage" src="../img/vitalinux-libreoffice-extension-multiformatsave-mod.png" alt="Imagen no Localizada">
 <img class="coolimage" src="../img/parte6/gifs/libreoffice-multiformatsave.gif" alt="Imagen no Localizada">
 <div class="imagetext_type2"><i>Img:</i> <tt>Tras instalar la <b>Extensión MultiFormatSave</b> aparecerá una nueva opción en el menú <b>Archivo</b> permitiéndonos guardar un archivo en varios formatos simultáneamente</tt></div>
 </div><br>
+
+<li>
+Selecciona la opción <b>"Multi Save"</b> e indica que quieres guardar el resultado dentro de <b>Documentos</b> (<i>o donde tú creas conveniente</i>), eligiendo como nombre para el archivo tu nombre y apellidos (<i>p.e. Arturo_Martin_Romero</i>).  <b>¡¡¡Guárdalo en todos los formatos disponibles!!!</b>
+</li>
 
 <li>
 Puedes ver una la lista de <b>Extensiones</b> disponibles para LibreOffice y comprobar si hay alguna que te puede resultar interesante.  En caso afirmativo instálala y comprueba su cometido.  Por ejemplo, si haces uso de ecuaciones matemáticas en tus clases la extensión de Libreoffice <b>"TexMaths"</b> es bestial, ya que te permite generar ecuaciones en formato Latex insuperables (<i>¡¡Ojo!! para usar TexMaths necesitarás instalar el programa texlive-latex-base, p.e. a través de synaptic</i>)
