@@ -42,6 +42,11 @@ Entra en el direcorio <b>Documentos</b> que está dentro de tu HOME y crea un di
 <li>
 El sistema Vitalinux chequea cada 5 minutos el HOME del usuario para comprobar que nuevos archivos y directorios se han creado para ofrecerlos al usuario cuando éste los busque.  Para no tener que esperar ese tiempo, y teniendo en cuenta que cada vez que se inicia <b>Albert</b> hace un escaneo, vamos a reiniciarlo. Para ello teclea <b>CONTROL + ESPACIO</b> y escribe <b>Reiniciar Servicio Albert</b>, espera unos segundos y ya podrás localizar el archivo/directorio creado tal como se propone en el siguiente apartado.
 </li>
+
+<center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">
+¡IMPORTANTE! A lo largo del curso es posible que <b>Albert</b> y su combinación de teclas <b>CONTROL + ESPACIO</b> no responda. Ante esta hipotética situación debes recordar que pulsando la tecla <b>Super</b> o <b>Tecla de Windows</b> (<i>tecla situada a la izquierda de la barra espaciadora</i>) se despliega el menú de aplicaciones y puedes escribir ordenes al sistema como <b>Reiniciar Servicio Albert</b> o <b>Regenerar Configuración de Albert</b> (<i>resetea e inicializa Albert</i>) que permitirán el volver a disponer de nuestro querido <b>Albert</b>.
+</pre></center>
+
 <li>
 Por último, comprueba lo rápido que puedes localizar un archivo o directorio que tengas ubicado dentro de tu HOME tecleando <b>CONTROL + ESPACIO</b> y el nombre o patrón de búsqueda: <i>tarea, curso o aularagon</i>.
 </li>
