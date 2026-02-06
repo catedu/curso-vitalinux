@@ -44,7 +44,7 @@ El sistema Vitalinux chequea cada 5 minutos el HOME del usuario para comprobar q
 </li>
 
 <center><pre style="border: 1; border-color: brown; background-color: orange; text-align: center;white-space: pre-wrap; color: white; font-weight: bold; font-size: 110%;">
-¡IMPORTANTE! A lo largo del curso es posible que <b>Albert</b> y su combinación de teclas <b>CONTROL + ESPACIO</b> no responda. Ante esta hipotética situación debes recordar que pulsando la tecla <b>Super</b> o <b>Tecla de Windows</b> (<i>tecla situada a la izquierda de la barra espaciadora</i>) se despliega el menú de aplicaciones y puedes escribir ordenes al sistema como <b>Reiniciar Servicio Albert</b> o <b>Regenerar Configuración de Albert</b> (<i>resetea e inicializa Albert</i>) que permitirán el volver a disponer de nuestro querido <b>Albert</b>.
+¡IMPORTANTE! A lo largo del curso es posible que <b>"Albert"</b> y su combinación de teclas <b>"CONTROL+ESPACIO"</b> no responda. Ante esta hipotética situación debes recordar que pulsando la tecla <b>"Super"</b> o <b>"Tecla de Windows"</b> (<i>tecla situada a la izquierda de la barra espaciadora</i>) se despliega el menú de aplicaciones y puedes escribir ordenes al sistema como <b>"Reiniciar Servicio Albert"</b> (<i>restablece Albert</i>) o <b>"Regenerar Configuración de Albert"</b> (<i>resetea e inicializa Albert</i>) que te permitirán volver a disponer de nuestro querido <b>"Albert"</b>.
 </pre></center>
 
 <li>
