@@ -7,7 +7,7 @@
 * [Presentación Contenidos Parte 1](Parte_1-Introduccion_Software_Libre/Parte_1-Presentacion_contenidos.md)
 * [¿Qué es Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Que_es_Vitalinux.md)
   * [¿Cómo se sincroniza Vitalinux con Migasfree?](Parte_1-Introduccion_Software_Libre/Parte_1-Comunicacion_vitalinux_migasfree.md)
-* [¿Donde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
+* [¿Dónde Descargar Vitalinux?](Parte_1-Introduccion_Software_Libre/Parte_1-Donde_descargar_Vitalinux.md)
 * [Tarea 1.1](Parte_1-Introduccion_Software_Libre/Parte_1-Tarea_1.1.md)
 
 ## Parte 2. Probando Vitalinux
@@ -16,7 +16,7 @@
 * [¿Cómo Probar Vitalinux?](Parte_2-Probando_Vitalinux/Parte_2-Como_probar_vitalinux.md)
 * [Instalación de Vitalinux usando VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Instalacion_vitalinux_en_virtualbox.md)
   * [¿Qué es VirtualBox?](Parte_2-Probando_Vitalinux/Parte_2-Que_es_virtualbox.md)
-  * [¿De donde obtener VirtualBox?](Parte_2-Probando_Vitalinux/Parte_2-Donde_obtener_virtualbox.md)
+  * [¿De dónde obtener VirtualBox?](Parte_2-Probando_Vitalinux/Parte_2-Donde_obtener_virtualbox.md)
   * [¿Cómo crear una máquina Virtual e instalar Vitalinux?](Parte_2-Probando_Vitalinux/Parte_2-Como_crear_una_maquina_virtual_en_virtualbox.md)
   * [Instalar las Guest Additions](Parte_2-Probando_Vitalinux/Parte_2-Instalar_guest_additions_virtualbox.md)
   * [Utilidades de VirtualBox](Parte_2-Probando_Vitalinux/Parte_2-Utilidades_virtualbox.md)
@@ -31,7 +31,7 @@
 * [Primer Contacto con Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Primer_contacto_con_vitalinux.md)
   * [Post-Instalación en un Centro Educativo](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_centro_educativo.md)
   * [Post-Instalación en Entorno Casa](Parte_3-Entorno_de_Escritorio/Parte_3-Asistente_post_instalacion_entorno_casa.md)
-* [Familiarizándonos con el Entorno de Escrito de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Familiarizandonos_entorno_escritorio.md)
+* [Familiarizándonos con el Entorno de Escritorio de Vitalinux](Parte_3-Entorno_de_Escritorio/Parte_3-Familiarizandonos_entorno_escritorio.md)
   * [Preferencias y Apariencia del Escritorio](Parte_3-Entorno_de_Escritorio/Parte_3-Preferencias_del_escritorio.md)
   * [Personalización de Vitalinux 2.x](Parte_3-Entorno_de_Escritorio/Parte_3-Personalizacion_de_vitalinux_v2.md)
   * [Personalización de Vitalinux 3.x](Parte_3-Entorno_de_Escritorio/Parte_3-Personalizacion_de_vitalinux_v3.md)

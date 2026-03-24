@@ -1,4 +1,4 @@
-### ¿De donde obtener VirtualBox? {#Donde_obtener_virtualbox}
+### ¿De dónde obtener VirtualBox? {#Donde_obtener_virtualbox}
 
 Para poder descargar Virtualbox deberemos dirigirnos a su página Web, a su área de descargas:
 

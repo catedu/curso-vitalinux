@@ -1,4 +1,4 @@
-# Créditos.
+# Créditos
 
 Autoría: Arturo Martín Romero e Ignacio Sancho Morte
 

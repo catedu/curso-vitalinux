@@ -22,7 +22,7 @@ Desde un punto de vista informático, haciendo un poco de abstracción, cada una
 Organización den forma de Árbol invertido de Windows
 {% endcoolimages_type2 %}
 
-Por todo lo anterior, se dice que en Windows existen tantos árboles de directorios y archivos como unidades de almacenaminento (letras) haya.  Linux difiere drásticamente en este sentido y **hace uso de un único árbol invertido de directorios y archivos** de donde van colgando nuevas ramas y hojas a medida que el sistema de archivos crece: **porque se crean nuevos directorios y archivos**, **porque se ha conectado un nuevo dispositivo de almacenamiento externo de tipo USB**, **porque se ha configurado una unidad de almacenamiento en red**, etc.
+Por todo lo anterior, se dice que en Windows existen tantos árboles de directorios y archivos como unidades de almacenamiento (letras) haya.  Linux difiere drásticamente en este sentido y **hace uso de un único árbol invertido de directorios y archivos** de donde van colgando nuevas ramas y hojas a medida que el sistema de archivos crece: **porque se crean nuevos directorios y archivos**, **porque se ha conectado un nuevo dispositivo de almacenamiento externo de tipo USB**, **porque se ha configurado una unidad de almacenamiento en red**, etc.
 
 Por tanto, la clave para comprender y entender como Vitalinux organiza los directorios y archivos es reconocer donde esta la raíz del árbol y como se distribuyen sus ramas.
 

@@ -8,7 +8,7 @@ Se recomienda, aunque no necesario, instalar el paquete software <b>dkms</b> en 
 Aunque puede instalarse más adelante, el que desee instalar el paquete <b>dkms</b> en este momento y no sepa como hacerlo, deberá dirigirse a la parte de gestión de software de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>.
 {% endnotificacion_alert %}
 
-Para ello debemos tener arrancada la máquina y clickar en la opción que hay en **VirtualBox de Dspositivos-&gt;Insertar Imágen de CD** de las Guest Additions. Éste menú puede cambiar si estamos trabjando en un sistema base de Microsoft.
+Para ello debemos tener arrancada la máquina y clickar en la opción que hay en **VirtualBox de Dspositivos-&gt;Insertar Imágen de CD** de las Guest Additions. Éste menú puede cambiar si estamos trabajando en un sistema base de Microsoft.
 
 ![Lanzar las Guest Additions desde VirtualBox](../img/Guest_vbox1.png)
 

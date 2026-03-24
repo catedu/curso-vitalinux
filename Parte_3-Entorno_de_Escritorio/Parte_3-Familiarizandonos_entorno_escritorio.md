@@ -1,4 +1,4 @@
-# Familiarizándonos con el Entorno de Escrito de Vitalinux
+# Familiarizándonos con el Entorno de Escritorio de Vitalinux
 
 El <b>Entorno de Escritorio</b> de <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span> no difiere mucho de entornos como los de <b>Windows</b>. Aunque en Linux existen multitud de entornos diferentes, y algunos de ellos mucho más <b><em>cool</em></b> que el que tiene <span style='color: darkblue; font-weight: 600'; font-size: 120%;><tt>Vitalinux</tt></span>, su elección fue teniendo en cuanta las siguientes premisas:
 

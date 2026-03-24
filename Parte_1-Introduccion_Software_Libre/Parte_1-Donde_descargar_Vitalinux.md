@@ -1,6 +1,6 @@
-# ¿Donde Descargar Vitalinux?
+# ¿Dónde Descargar Vitalinux?
 
-Al tratarse de un Sistema Operativo, la forma más habitual para distribuir/descargar Vitalinux el mismo es usando el <b>formato ISO</b>. A continuación veremos donde encontrar la versión más actualizada para su descarga.
+Al tratarse de un Sistema Operativo, la forma más habitual para distribuir/descargar Vitalinux el mismo es usando el <b>formato ISO</b>. A continuación veremos dónde encontrar la versión más actualizada para su descarga.
 
 {% notificacion_didyouknow title='¿Qué es una Archivo o Imagen ISO?' %}
 La extensión <b>*.iso</b> en un archivo nos advierte de que ese archivo es el resultado de comprimir y empaquetar un conjunto de archivos y directorios.  A modo de ejemplo existen muchos programas que nos permiten crear un archivo o imagen ISO a partir de un CD de música o DVD de vídeo, obteniendo como resultado un único archivo resultante <b>*.iso</b>, el cual contiene todos los archivos existentes en el CD o DVD, posibilitando posteriormente su copia o restauración.
