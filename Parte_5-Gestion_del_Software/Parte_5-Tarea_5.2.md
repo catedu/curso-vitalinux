@@ -39,11 +39,11 @@ Asegurate de que tu equipo Vitalinux ha terminado la comunicación con <span sty
     En el Escritorio del usuario aparezcan tres nuevas carpetas.
     </li>
     <li>
-    Que se instalen nuevas aplicaciónes para las prácticas posteriores, y una por ejemplo llamada <b>Calibre</b> pensada para el tratamiento de e-books.
+    Que se instalen nuevas aplicaciónes. A modo de ejemplo, se instalará <b>Exelearning</b> que permite a docentes y usuarios crear contenidos educativos digitales interactivos (textos, imágenes, vídeos, actividades) de forma sencilla y exportarlos a formatos para su uso en plataformas como Moodle o su publicación web.
     </li>
     </ul>
 <li>
-Comprueba el efecto de la asignacióna anterior, advirtiendo que te han aparecido tres carpetas nuevas en el Escritorio y que dispones de esta nueva aplicación: <b>"CONTROL + ESPACIO"</b> y teclea <b>"Calibre"</b>
+Comprueba el efecto de la asignacióna anterior, advirtiendo que te han aparecido tres carpetas nuevas en el Escritorio y que dispones de esta nueva aplicación: <b>"CONTROL + ESPACIO"</b> y teclea <b>"exeLearning"</b>
 </li>
 
 </ol>
